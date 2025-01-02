@@ -21,23 +21,27 @@ Daarnaast verdiepen individuele studenten hun technische vaardigheden door midde
 
 ### Begeleiding
 
-Over het algemeen heeft je groep één aanspreekpunt voor het project. Als je grote beslissingen neemt moeten jullie die met de aangewezen begeleider bespreken. Tijdens colleges op maandag en woensdag is assistentie mogelijk met opdrachten en technische aspecten van het project.
+Over het algemeen heeft je groep één aanspreekpunt voor het project. Als je grote beslissingen neemt moeten jullie die met de aangewezen begeleider bespreken. Tijdens colleges op maandag en woensdag is assistentie mogelijk met opdrachten en technische aspecten van het project. Op vrijdagen is de wekelijkse voortgangsbespreking waar de groep voortgang presenteert en feedback doorneemt met de begeleider.
 
 ### Beoordeling
 
 Het project vormt de basis van het vak. De beoordeling geschiedt door docenten, naar ervaring en gezamenlijk inzicht, op basis van de volgende rubric. Er kunnen eventueel ook halve punten worden gegeven. Een voldoende voor het project is vereist om een voldoende te halen voor het vak.
 
-- **Project zeer goed (7)**: Uitstekend eindproduct. Naar inzicht van de docenten kan een voldoende project een hoger oordeel krijgen als er bijzonder sterke inzichten in de data zijn ontwikkeld en deze op sterke manier worden gepresenteerd en verdedigd. Dit werk mag niet slechts bij een deel van de teamleden liggen. Het moet duidelijk zijn dat door de groep een passende uitdaging is opgezocht en succesvol uitgevoerd.
+- **Project zeer goed (cijfer 7)**: Uitstekend eindproduct. Naar inzicht van de docenten kan een voldoende project een hoger oordeel krijgen als er bijzonder sterke inzichten in de data zijn ontwikkeld en deze op sterke manier worden gepresenteerd en verdedigd. Dit werk mag niet slechts bij een deel van de teamleden liggen. Het moet duidelijk zijn dat door de groep een passende uitdaging is opgezocht en succesvol uitgevoerd.
 
-- **Project voldoende (6)**: Eindproduct voldoet ruimschoots aan de eisen. Dit betekent dat er aantoonbaar inzicht is in het verband tussen vraag, data en conclusies, dat er in iteraties is gewerkt, feedback van medestudenten en docenten meegenomen, voldoende feedback gegeven en meegedaan aan dataverzameling van andere teams, een procesboek en notulen bijgehouden, een poster gemaakt die gebaseerd is op al het werk, enzovoort.
+- **Project voldoende (cijfer 6)**: Eindproduct voldoet ruimschoots aan de eisen. Dit betekent dat er aantoonbaar inzicht is in het verband tussen vraag, data en conclusies, dat er in iteraties is gewerkt, feedback van medestudenten en docenten meegenomen, voldoende feedback gegeven en meegedaan aan dataverzameling van andere teams, een procesboek en notulen bijgehouden, een poster gemaakt die gebaseerd is op al het werk, enzovoort.
 
-- **Project onvoldoende (5)**: Eindproduct is niet op niveau, en het vak kan dan ook niet gehaald worden (cijfer NAV). Dit zal over het algemeen al vroegtijdig duidelijk zijn door achterlopen en het niet uitvoeren van instructies. Conflicten in de groep moeten snel opgelost worden. Het is niet mogelijk met uitstel alsnog een voldoende te krijgen, maar achterstand is soms wel in te halen vóór de deadline. Vraag tijdig om advies indien nodig.
+- **Project onvoldoende (cijfer NAV)**: Eindproduct is niet op niveau, en het vak kan dan ook niet gehaald worden. Dit zal over het algemeen al vroegtijdig duidelijk zijn door achterlopen en het niet uitvoeren van instructies. Conflicten in de groep moeten snel opgelost worden. Het is niet mogelijk met uitstel alsnog een voldoende te krijgen, maar achterstand is soms wel in te halen vóór de deadline. Vraag tijdig om advies indien nodig.
 
 Daarnaast kun je punten verdienen door te oefenen met technieken voor dataverwerking.
 
 - **Technieken (1--3 erbij)**: Voor het succesvol afronden van technische opdrachten (Pandas, SQL, Scraping) kun je een punt extra op je eindcijfer halen (individueel). Je moet tijdens het maken en naderhand aantonen dat je door de oefening de techniek op een ruim voldoende niveau beheerst.
 
 Zoals je ziet ligt er een hoop verantwoordelijkheid bij jou om vorm te geven aan je werk in het vak. Als je redelijkerwijs de instructies volgt kom je wel een heel eind, maar zorg echt zelf dat je je leren zichtbaar maakt.
+
+### Notulen
+
+Alle bijeenkomsten met de groep moeten worden genotuleerd door mensen uit de groep. De notulen worden gebruikt in de beoordeling.
 
 ---
 
@@ -121,9 +125,9 @@ Zodra de vraag scherp is gaan jullie als team een gezamenlijk onderzoeksplan sch
 
 #### Deadlines en inlevermomenten
 
-- **Aftekenen Pandas**: tijdens werkcollege woensdag aftekenen dat je goed begonnen bent, t/m vraag ...
-- **Notebook (eerste versie)**: donderdag 9 januari, 17:00 uur
-- **Oefenopdracht Pandas**: maandag 13 januari, 13:00 uur
+- **Aftekenen Pandas**: tijdens werkcollege woensdag aftekenen t/m vraag 9
+- **Projectnotebook (eerste milestone)**: donderdag 9 januari, 15:00 uur
+- **Oefenopdracht Pandas**: maandag 13 januari, 11:00 uur
 
 #### Begeleiding
 
@@ -148,8 +152,8 @@ Milestone voor het project: een Notebook met het aangepaste plan, verzamelde dat
 Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de eerste week gaan je helpen om het goed uit te voeren. Of de *resultaten* goed zullen zijn weet je nooit helemaal zeker, maar jullie houden je aan het plan. Op de maandag is er wel een laatste kans om nog dingen aan te passen en je begeleider om input te vragen. Je krijgt dan ook instructies over het vragen van toestemming aan deelnemers. Op dinsdag wordt er data verzameld. Afhankelijk van het onderzoeksplan gebeurt dit op Science Park bij het vaste lokaal, of op een heel specifieke locatie elders (met toestemming van de begeleider). Naderhand doet het team een gezamenlijke *debrief* om te bespreken hoe het ging en wat jullie eerste inzichten zijn. Op woensdag tijdens het werkcollege gaan jullie de data uitwerken en analyseren. Jullie gaan afspreken hoe je de data zou kunnen presenteren in je Notebook. Dit gaan jullie vervolgens uitvoeren. Vrijdag volgt de presentatie aan de begeleider, met wie je dan ook evalueert wat er nog beter kan, en meteen afspraken maakt voor de volgende stap.
 
 - **Maandag 13 januari**
+    - **Deadline Pandas**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
     - **Werken aan opdracht** (11-13 uur in L0.11, zaal blijft daarna beschikbaar)
-        - <mark>Afronden en inleveren Pandas</mark>
         - <mark>Start opdracht SQL</mark> (videocollege niet in les kijken)
     - **Project** (15-17 uur in L0.11)
         - Instructie: informed consent, ...
@@ -201,9 +205,9 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
 
 #### Deadlines en inlevermomenten
 
-- **Aftekenen SQL**: tijdens werkcollege woensdag aftekenen dat je goed begonnen bent
-- **Notebook (tweede versie)**: donderdag 16 januari, 17:00 uur
-- **Oefenopdracht SQL**: maandag 20 januari, 13:00 uur
+- **Aftekenen SQL**: tijdens werkcollege woensdag aftekenen Movies
+- **Projectnotebook (tweede milestone)**: donderdag 16 januari, 15:00 uur
+- **Oefenopdracht SQL**: maandag 20 januari, 11:00 uur
 
 #### Begeleiding
 
@@ -227,8 +231,8 @@ Milestone voor het project: een Notebook met het aangepaste plan, verzamelde dat
 In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat precies wordt is niet goed te voorspellen tot je week 2 helemaal hebt afgerond. Het kan zijn dat je data incompleet is, te weinig respondenten heeft, de verkeerde vragen gesteld, of je hebt niet goed gecoördineerd met teamgenoten. Maar het kan ook zijn dat je geen idee hebt hoe je iets zinnigs uit de data kunt halen, terwijl er toch wel een hoop in lijkt te zitten. In samenspraak met je begeleider ga je je onderzoek verbeteren. Een groot deel van het werk verzetten jullie op dinsdag, en woensdag is er dan weer een contactmoment om input te krijgen. Dit is het moment dat je extra scherp moet opletten hoe je begeleider reageert: wat moet je nog doen om het tot een goed einde te brengen? Er zijn immers nog maar een paar werkdagen te gaan tot de eindpresentaties.
 
 - **Maandag 20 januari**
+    - **Deadline SQL**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
     - **Werken aan opdracht** (11-13 uur in L0.11, zaal blijft daarna beschikbaar)
-        - <mark>Afronden en inleveren SQL</mark>
         - <mark>Start opdracht Web Scraping</mark> (video's niet in les kijken)
     - **Project** (15-17 uur in L0.11)
         - Instructie: data visualiseren, inzichtelijk maken
@@ -274,9 +278,9 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
 
 #### Deadlines en inlevermomenten
 
-- **Aftekenen Web Scraping**: tijdens werkcollege woensdag aftekenen dat je goed begonnen bent
-- **Notebook (derde versie)**: donderdag 23 januari, 17:00 uur
-- **Technische opdracht Web Scraping**: maandag 27 januari, 13:00 uur
+- **Aftekenen Web Scraping**: tijdens werkcollege woensdag aftekenen (nader te bepalen tot waar)
+- **Projectnotebook (derde milestone)**: donderdag 23 januari, 15:00 uur
+- **Oefenopdracht Web Scraping**: maandag 27 januari, 11:00 uur
 
 #### Begeleiding
 
@@ -300,9 +304,8 @@ Milestone voor het project: een mooie nette notebook, een poster, en een pitch o
 De laatste week van het vak is iets korter en staat helemaal in het teken van afronden. Op donderdag ga je met je team een posterpresentatie geven. Dat betekent dat je op een vel papier inzichtelijk moet maken wat je hebt ontdekt en hoe je dit kunt verantwoorden. Het publiek zal kritisch kijken naar alle aspecten van het onderzoek: Is de vraag echt beantwoord? Is de data zorgvuldig verzameld? Is de analyse gedaan zonder teveel bias van de onderzoekers? Gáát het eigenlijk wel ergens over? Dit is de kritische houding die elke onderzoeker in zich heeft, omdat we zo goed mogelijk ons best doen werk op te leveren waar anderen weer op kunnen bouwen. Ter voorbereiding ga je maandag een schets van je poster maken en dinsdag helemaal uitwerken. Jullie vragen om feedback en dan gaan jullie de poster echt uitwerken zodat je woensdagochtend een PDF kunt inleveren. De begeleiders zorgen dat de posters op groot formaat worden uitgeprint en donderdag is er dan eindelijk die presentatie (veel succes!). Daarna gaan de begeleiders direct aan de slag met de beoordeling.
 
 - **Maandag 27 januari**
-    - **Werken aan opdracht** (11-13 uur in L0.11)
-        - <mark>Afronden en inleveren Web Scraping</mark>
-    - **Project** (15-17 uur in L0.11)
+    - **Deadline Scraping**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
+    - **Project** (11-13 uur in L0.11)
         - Instructie: poster maken
             - Balans tekst en grafiek
             - Hoe presenteer je kwalitatief
@@ -330,7 +333,7 @@ De laatste week van het vak is iets korter en staat helemaal in het teken van af
 
 #### Deadlines en inlevermomenten
 
-- **Definitieve poster**: woensdag 29 januari, 12:00 uur
+- **Definitieve poster**: woensdag 29 januari, 11:00 uur
 - **Uitgeschreven pitch**: woensdag 29 januari, 15:00 uur
 
 #### Begeleiding
@@ -346,36 +349,10 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 
 ---
 
-## Technische oefening
-
-De technieken voor dataverwerking vormen een belangrijk onderdeel van het vak en helpen studenten hun vaardigheden in praktijk te brengen.
-
-1. **Week 1 – Pandas**:
-   - Data inladen, manipuleren en visualiseren in een Jupyter Notebook.
-
-2. **Week 2 – SQL**:
-   - Query's schrijven om gegevens op te halen en te filteren in een relationele database.
-
-3. **Week 3 – Web Scraping**:
-   - Data verzamelen van een website met behulp van Python en tools zoals BeautifulSoup of Scrapy.
-
-**Aftekenen op woensdag:** Tijdens practica op woensdag laten studenten zien dat ze bezig zijn met de opdrachten. Dit geeft de docent inzicht in de voortgang en biedt studenten ruimte voor vragen en feedback.
-
-**Definitieve deadlines:** Steeds weer maandag 13:00 uur.
-
----
-
-## Contactmomenten en begeleiding
-
-- Alle genoemde activiteit zijn verplicht.
-- Tijdens bijna alle activiteiten zijn de docenten aanwezig. Vraag ze om input. Neem wel eigen beslissingen: dat is jouw verantwoordelijkheid.
-- Vrijdag is gereserveerd voor voortgangsbesprekingen in kleine groepen (max. 6 studenten). Studenten presenteren hun voortgang en ontvangen feedback van medestudenten en docent.
+## Contact en uitzonderingen
 
 Voor vragen of aanvullende begeleiding: neem contact op via e-mail of spreek de begeleider aan tijdens de practica.
 
-## Notulen
-
-Alle bijeenkomsten met de groep moeten worden genotuleerd door mensen uit de groep. De notulen worden gebruikt in de beoordeling.
-
+Alle vormen van uitzonderingen moeten per mail worden afgesproken. Mondelinge afspraken zijn niet geldig.
 
 **Succes!** 🚀
