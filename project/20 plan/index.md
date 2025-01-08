@@ -18,9 +18,9 @@ Kiezen heb je al gedaan maandag tijdens college. Neem thema en Grote Vraag lette
 
 ## 2. Tussenresultaten KJ analyse
 
-Tijdens college op woensdag doe je een analyse van de vraag, waarin je met z'n allen jullie kennis over het onderwerp probeert te structureren. Plaats duidelijke foto's van je post-its + een nette tekening van 
+Tijdens college op woensdag doe je een analyse van de vraag, waarin je met z'n allen jullie kennis over het onderwerp probeert te structureren. Plaats duidelijke foto's van je post-its (uitgeknipt, niet allemaal nutteloze ruimte eromheen!) en maak een diagram van de resultaten, bijvoorbeeld in Powerpoint of Keynote.
 
-[Zie de KJ-slides voor een voorbeeldtekening](https://public.3.basecamp.com/p/W6AtUEL5v9LANfgXe9cXdnjy)
+[Zie de KJ-slides voor een voorbeelddiagram](https://public.3.basecamp.com/p/W6AtUEL5v9LANfgXe9cXdnjy)
 
 ## 3. Onderzoeksvraag
 
