@@ -56,3 +56,9 @@ Beschrijf de voor- en nadelen van de 3 onderzoeksmethoden en hoe deze een serieu
 - ...
 
 Maak hier een overzichtelijk stukje van zodat we tijdens de voortgangsbespreking op vrijdag goed de voor- en nadelen kunnen bespreken (met je begeleider).
+
+## Inleveren
+
+Voorzitter: ga naar de Submit-tab en lever het document in.
+
+Tijdens het gesprek op vrijdag gaan jullie definitieve keuzes maken samen met je begeleider. De begeleider heeft deze week nog het laatste woord!
