@@ -10,6 +10,8 @@ Het internet staat vol met datasets, vaak direct toegankelijk, soms via een zoge
 
 **OPDRACHT A** Omschrijf in minimaal één A4 waarom je deze dataset gekozen hebt, waar je die gevonden hebt en hoe de data in elkaar zit (zonder daarbij in te gaan op de inhoud van de data). Wat zijn de belangrijkste kolommen in de dataset? Hoe groot is de dataset (met andere woorden: hoeveel rijen zijn er)? Hoe compleet is de dataset (hoeveel missing values zijn er? En misschien wel de belangrijkste vraag: is bij het samenstellen van de dataset een sampling-methode gebruikt en zoja: welke? Let op: je zult gedurende dit vak met deze dataset werken en ruilen van dataset is niet toegestaan (tenzij om dringende redenen, dit ter beoordeling van de docent die je begeleidt). Kies dus zorgvuldig!
 
+**Als onderdeel van deze vraag moet je de dataset inladen in je Notebook met hulp van Pandas.** Zorg dat er een cel is waar je de dataset inlaadt in een dataframe. Vraag aan het eind van de cel de "head" (eerste paar regels) van de dataset op zodat deze wordt getoond (`df.head()`).
+
 ## Onderzoeksvraag
 
 Normaal bepaal je eerst je onderzoeksvraag en zoek je daar een geschikte  dataset bij, maar omwille van de beperkte tijd doen we het in dit vak andersom. Zorg dat je onderzoeksvraag relevant is en niet te groot. Ga ervanuit dat het beantwoorden van een onderzoeksvraag in 3 maanden te doen is (de duur van een gemiddeld afstudeertraject).
