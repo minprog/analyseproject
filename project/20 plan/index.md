@@ -28,7 +28,7 @@ Uit je KJ-analyse begrijp je meer van de Grote Vraag en de deelvragen die inzich
 
 ## 4. Onderzoeksmethode
 
-Leg nauwkeurig uit welke 3 onderzoeksmethoden jullie zouden kunnen toepassen voor deze vraag, met welke (soort) deelnemers, en een globale uitwerking van de methode. Als je bijvoorbeeld een enquete overweegt, wat zouden dan cruciale vragen zijn om te stellen?
+Leg nauwkeurig uit welke 3 onderzoeksmethoden jullie zouden kunnen toepassen voor deze vraag, met welke (soort) deelnemers, en een globale uitwerking van de methode. Als je bijvoorbeeld een enquete overweegt, wat zouden dan cruciale vragen zijn om te stellen? Maak er echt een lijstje van!
 
 [Ideeën voor onderzoek doen in deze handout](https://public.3.basecamp.com/p/ZctUeMTS9k6L3hYEnQEJeW8h)
 
