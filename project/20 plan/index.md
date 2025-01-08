@@ -32,9 +32,18 @@ Leg nauwkeurig uit welke 3 onderzoeksmethoden jullie zouden kunnen toepassen voo
 
 [Ideeën voor onderzoek doen in deze handout](https://public.3.basecamp.com/p/ZctUeMTS9k6L3hYEnQEJeW8h)
 
-Let op: het moet altijd om veldonderzoek gaan (field research)!
+Let op: het moet altijd om veldonderzoek gaan (field research)! Toegestaan zijn:
+
+- Online-enquete
+- Face-to-face enquete (met doorvragen)
+- Groepsdiscussie
+- Diepte-interview
+- Observatie
+- Case study
 
 Tip: je kunt ook ChatGPT vragen om suggesties te doen in deze fase van het onderzoek. De kunst is om de juiste informatie te geven zodat er ook zinnige ideeën uitkomen.
+
+MAAR: doe geen datadump in je onderzoeksplan- alles in het plan moet overzichtelijk zijn en elke zin moet door elk groepslid kunnen worden verdedigd.
 
 ## 5. Analyse onderzoeksmethoden
 
