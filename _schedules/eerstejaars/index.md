@@ -64,56 +64,47 @@ Deze eerste week ga je een onderzoeksvraag formuleren, onderzoeksmethoden bestud
 Zodra de vraag scherp is gaan jullie als team een gezamenlijk onderzoeksplan schrijven. Als je gaat schrijven merk je dat je heel precies moet zijn. Dat is een nuttig proces, want precies zijn en logische conclusies trekken zijn belangrijkste dingen waar het vak om draait. Als onderdeel van dit onderdeel gaan alle teamleden nadenken welke onderzoeksmethoden passend zouden kunnen zijn en de meest praktische, interessante, vruchtbare ideeën worden in het plan als optie opgenomen. Dit plan moet donderdag aan het eind van de middag klaar zijn. Tot slot gaan jullie op vrijdag je vraag en methode-opties presenteren aan je begeleider. Deze gaat je helpen je vraag nog weer scherper te maken en een haalbare keuze te maken voor de onderzoeksmethode. Naderhand werk je je onderzoeksmethode helemaal uit. Hiermee heb je voldoende materiaal in handen om de volgende week echt data te gaan verzamelen.
 
 - **Maandag 6 januari**
-    - **Kick-off technieken** (11-13 uur, start in C1.112, daarna L0.11)
-        - Uitleg tools: Notebooks en Pandas (Martijn)
+    - **Kick-off technieken** (11-13 uur)
+        - Introductie over het vak, verschil eerstejaars en ouderejaars
+        - Uitleg tools: Notebooks en sneak preview Pandas
         - Installatie-check
         - <mark>Start opdracht Pandas</mark>
-    - **Werken aan opdracht** (lokaal L0.11 blijft beschikbaar)
-    - **Kick-off project** (15:00-16:30 uur in L0.11)
-        - Introductie project en vak (Martijn)
-        - Voorbeelden van gebruikersonderzoek (Martijn)
-        - Reflectie op studenten-enquete (Martijn)
-        - Begeleiders spreken kort met hun groepjes en geven de *brief* met thema
-        - Handout: thema met Grote Vragen per groep (precies 10 prints, voor elke groep één)
-    - **Korte projectmeeting** (16:30-17:00 uur in L0.11)
-        - Beslissen wie notuleert
-        - Themavragen doornemen en de meeste interessante of haalbare kiezen
-        - Notulen maken!
+    - **Werken aan opdracht** (lokaal blijft beschikbaar)
+    - **Kick-off project** (15-17 uur)
+        - Introductie project
+        - Groepjes kiezen thema en krijgen *brief* met thema
+        - Korte projectmeeting per groepje
+            - Beslissen wie notuleert
+            - Themavragen doornemen en de meeste interessante of haalbare kiezen
+            - Notulen maken en doormailen naar <python@proglab.nl>!
 
-- **Dinsdag 7 januari** (remote of L0.11)
+- **Dinsdag 7 januari**
     - **Voorbereiding project**
         - <mark>Elk teamlid doet online achtergrondonderzoek: goed begrijpen wat er speelt rondom de gekozen Grote Vraag</mark>
+        - Inleveren volgens instructie op website
     - **Huiswerk**
         - <mark>Werken aan oefenopdracht Pandas</mark>
 
-- **Woensdag 8 januari** (11-15 uur in L0.11)
+- **Woensdag 8 januari** (11-15 uur)
     - **Project**
-        - Instructie: wat moet je deze week opleveren? Overzicht onderzoeksmethoden (Martijn)
-        - Handout: onderzoeksmethoden
-            - Online-enquete
-            - Face-to-face enquete
-            - Groepsdiscussie
-            - Diepte-interview
-            - Observatie
-            - Case study
-        - Handout: onderzoeksplan
+        - Instructie: wat moet je deze week opleveren?
         - Onder begeleiding toepassen van KJ technique (Martijn)
-        - Notulen maken!
         - Probleeminzichten verdiepen, deelvragen vinden
+        - Instructie onderzoeksplan (en methoden) staat op website
     - **Werken aan opdracht**
         - <mark>Werken aan oefenopdracht Pandas</mark>, met assistentie
         - Let op tussendeadline, zie onder
 
 - **Donderdag 9 januari** (remote of L0.11)
     - **Projectmeeting**
+        - Zie instructie op website
         - Bespreking inzichten analyse
         - Kiezen onderzoeksvraag
         - Ideeën bedenken voor onderzoeksmethoden, wat zou kunnen?
         - Korte voorstellen uitwerken
-        - Alle opties in een Notebook plaatsen (deadline)
-        - Notulen maken!
+        - Alle opties in een PDF plaatsen (let op deadline 15 uur)
 
-- **Vrijdag 10 januari** (tijd nog indelen, in L0.11)
+- **Vrijdag 10 januari** (op verschillende locaties)
     - **Voortgangsbespreking**
         - Ongeveer 45 minuten per groepje
         - Presenteren van onderzoeksvraag en uitgewerkte ideeën voor methode
@@ -121,7 +112,6 @@ Zodra de vraag scherp is gaan jullie als team een gezamenlijk onderzoeksplan sch
         - Samen met begeleider concreet uitwerken methode (scaffold)
         - Feedback van docent, next steps samen afspreken
         - Handout: do's en don't bij onderzoek uitvoeren
-        - Notulen maken!
     - **Groepsmeeting** na de bespreking
         - Stappenplan voor afgesproken onderzoeksmethode helemaal uitwerken
 
