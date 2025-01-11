@@ -57,7 +57,7 @@ Bijeenkomsten hieronder zijn verplicht.
 
 ### Week 1: Onderzoeksplan en Pandas
 
-Milestone voor het project: een Notebook met daarin het onderzoeksplan.
+Milestone voor het project: een PDF met daarin het onderzoeksplan.
 
 Deze eerste week ga je een onderzoeksvraag formuleren, onderzoeksmethoden bestuderen en een onderzoeksplannetje schrijven. Daarmee leg je de basis voor de rest van het vak. Op maandag krijgt je groep een thema toegekend, met daarbij drie Grote Vragen. Het team kiest een vraag om zich op te concentreren en de teamleden gaan in de loop van de volgende dag een beeld vormen door middel van online onderzoek en gesprekken met een LLM. Op woensdag komt iedereen bij elkaar en doen we een oefening waarin elk team een gezamenlijk beeld vormt van de Grote Vraag. Dat is het moment dat je ook kunt gaan "inzoomen": een specifiekere vraag stellen die jullie daadwerkelijk in de komende weken kunnen beantwoorden. Je moet een "empirisch" onderzoek te doen: waarnemingen doen in de wereld, door met mensen te spreken of ze te observeren. Hoe scherper de vraag is, hoe waarschijnlijker dat je er een serieus antwoord op kunt vinden.
 
@@ -111,14 +111,13 @@ Zodra de vraag scherp is gaan jullie als team een gezamenlijk onderzoeksplan sch
         - Bijsturen onderzoeksvraag en -methode (onhaalbaarheid)
         - Samen met begeleider concreet uitwerken methode (scaffold)
         - Feedback van docent, next steps samen afspreken
-        - Handout: do's en don't bij onderzoek uitvoeren
     - **Groepsmeeting** na de bespreking
         - Stappenplan voor afgesproken onderzoeksmethode helemaal uitwerken
 
 #### Deadlines en inlevermomenten
 
 - **Aftekenen Pandas**: tijdens werkcollege woensdag aftekenen t/m vraag 9
-- **Projectnotebook (eerste milestone)**: donderdag 9 januari, 15:00 uur
+- **Projectplan**: donderdag 9 januari, 15:00 uur
 - **Oefenopdracht Pandas**: maandag 13 januari, 11:00 uur
 
 #### Begeleiding

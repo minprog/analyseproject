@@ -1,0 +1,4 @@
+name: plan
+files:
+    required:
+        - plan.pdf

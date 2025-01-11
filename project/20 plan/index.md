@@ -14,7 +14,7 @@ Benoem bovenaan het document je groepsnummer en de voor- en achternamen van de g
 
 ## 1. Gekozen thema en Grote Vraag
 
-Kiezen heb je al gedaan maandag tijdens college. Neem thema en Grote Vraag letterlijk over zodat iedereen weet waar het allemaal mee begonnen.
+Kiezen heb je al gedaan maandag tijdens college. Neem thema en Grote Vraag letterlijk over zodat iedereen weet waar het allemaal mee begon.
 
 ## 2. Tussenresultaten KJ analyse
 
