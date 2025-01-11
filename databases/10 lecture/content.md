@@ -8,8 +8,4 @@ Bekijk het videocollege en/of de korte video voor een inleiding in databases en 
 
 ---
 
-Zorg dat je [SQLite](https://www.sqlite.org/download.html) installeert (precompiled binaries) als je op Windows werkt. Op Mac is het al beschikbaar. Ga naar de commandline/terminal en geef het volgende commando om SQLite te gebruiken:
-
-    sqlite3 movies.db
-
-(Dit is een voorbeeld. Pas aan waar nodig.)
+Zorg dat je [SQLite](https://www.sqlite.org/download.html) installeert (precompiled binaries) als je op Windows werkt. Op Mac is het al beschikbaar.
