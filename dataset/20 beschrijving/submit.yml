@@ -1,0 +1,4 @@
+name: dm2
+files:
+    required:
+        - milestone2.ipynb
