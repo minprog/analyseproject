@@ -1,0 +1,4 @@
+name: dm3
+files:
+    required:
+        - milestone3.ipynb

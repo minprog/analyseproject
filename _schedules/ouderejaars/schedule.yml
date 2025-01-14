@@ -13,15 +13,11 @@ Startup:
 
 Inhoud:
     Project:
-        bla: ''
-
-    Pandas:
-        Opdracht Pandas: /pandas
-
-    Databases:
-        Videocollege: /databases/lecture
-        Movies: /databases/movies
-        Fiftyville: /databases/fiftyville
+        Milestone 1: /dataset/keuze
+        Milestone 2: /dataset/beschrijving
+        Milestone 3: /dataset/extra
+        Milestone 4: /dataset/presentatie
+        Milestone 5: /dataset/poster
 
     Scraping:
         Scraping: /scraping
