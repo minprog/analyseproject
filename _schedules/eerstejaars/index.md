@@ -144,9 +144,9 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
 
 - **Maandag 13 januari**
     - **Deadline Pandas**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
-    - **Werken aan opdracht** (11-13 uur in L0.11, zaal blijft daarna beschikbaar)
+    - **Werken aan opdracht** (11-13 uur op verschillende locaties, zaal L0.11 blijft daarna beschikbaar)
         - <mark>Start opdracht SQL</mark> (videocollege niet in les kijken)
-    - **Project** (15-17 uur in L0.11)
+    - **Project** (15-17 uur in C0.110)
         - Instructie: informed consent, ...
         - Mogelijkheid tot vragen stellen aan begeleider
         - Onderzoeksmethode moet vooraf helemaal uitgewerkt zijn
