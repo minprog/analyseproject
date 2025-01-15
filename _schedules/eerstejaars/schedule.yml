@@ -6,6 +6,7 @@ Startup:
         Plan [1e donderdag 15:00]: /project/plan
         Methode [2e maandag]: /project/methode
         Analyse kwalitatief [2e woensdag]: /project/kwalitatief
+        Analyse kwantitatief [2e woensdag]: /project/kwantitatief
 
     Pandas:
         Opdracht Pandas: /pandas

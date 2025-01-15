@@ -132,4 +132,6 @@ Bovenstaande voorbeelden zijn trouwens zeer uitgebreid. Je hebt misschien 5 diep
 
 Nu heb je het begin van een "theorie" die helpt begrijpen wat er speelt rondom jullie onderwerp.
 
+Bedenk alvast voorzichtig hoe de data je kan helpen inzicht te krijgen in het probleem of hoe deze zelfs je onderzoeksvraag zou kunnen beantwoorden.
+
 De resultaten ga je opnemen in het verslag dat je donderdag moet inleveren. Zie de aparte pagina voor instructies.
