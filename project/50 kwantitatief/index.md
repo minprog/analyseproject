@@ -36,7 +36,7 @@ Doe dit voor alle variabelen in de dataset.
 
 Bestudeer de verbanden tussen verschillende variabelen. Kijk welke het meeste inzicht zouden kunnen geven in het probleem en maak er een gecombineerde samenvattende tabel van, of een plot. Hieronder kiezen we voor een boxplot om gemiddelde en bereik van prijzen in één keer inzichtelijk te maken.
 
-![](catprice.png)
+![](cat_price.png)
 
 Doe dit voor zoveel mogelijk zinvolle verbanden in de data. Als je niet weet hoe je iets moet doen, zoek het op.
 
