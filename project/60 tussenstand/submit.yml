@@ -1,0 +1,7 @@
+name: tussenstand
+files:
+    required:
+        - tussenstand.pdf
+    optional:
+        - notebook.ipynb
+        - raw_data.csv
