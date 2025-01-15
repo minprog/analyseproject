@@ -4,6 +4,8 @@ Als je interviews hebt gedaan, of een face-to-face enquete, dan moet je de audio
 
 De eerste stap is om een nette representatie van de gesproken tekst te krijgen. Hierbij moet duidelijk zijn hoe het interview is verlopen: wie zei wat en wanneer.
 
+Daarna ga je analyseren.
+
 ## Stap 1. Audio organiseren
 
 Zorg dat je alle audiobestanden netjes op een rij hebt op één computer. Je kunt ze ook delen met elkaar via Dropbox of een andere dienst. Dan kan iedereen er makkelijk bij.
