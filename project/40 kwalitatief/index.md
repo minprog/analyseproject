@@ -1,37 +1,60 @@
-# Audiotranscriptie
+# Analyse kwalitatief
 
 Als je interviews hebt gedaan, of een face-to-face enquete, dan moet je de audio van elke deelnemer opnemen en deze uitwerken.
 
 De eerste stap is om een nette representatie van de gesproken tekst te krijgen. Hierbij moet duidelijk zijn hoe het interview is verlopen: wie zei wat en wanneer.
 
-## Stap 1. Audio in ruwe 
+## Stap 1. Audio organiseren
 
+Zorg dat je alle audiobestanden netjes op een rij hebt op één computer. Je kunt ze ook delen met elkaar via Dropbox of een andere dienst. Dan kan iedereen er makkelijk bij.
 
+## Stap 2. Transcriberen (uitschrijven)
 
+Je gaat nu alle interviews uitschrijven. We gaan dat eerst zoveel mogelijk met AI-tools doen.
+Ga naar <https://huggingface.co/spaces/Xenova/whisper-speaker-diarization> voor een demo waarin met een AI-model een interview uitgeschreven kan worden.
 
-## Netjes maken van de tekst
+Dit model is speciaal geschikt voor "diarization" ofwel het herkennen van de verschillende sprekers en dit bij het uitschrijven ook vermelden.
 
-Hieronder vind je een fragment uit een voorbeeld-interview. Het is een onderzoek dat gaat over gebruik van media voor het volgen van politieke ontwikkelingen. Je ziet dat de tekst is opgedeeld in segmenten, waar steeds wordt gemarkeerd wie wat zegt (interviewer of deelnemer). Het is een gesprek met "deelnemer 3", die in het verslag ook D3 wordt genoemd.
+- Sleep een audiofile naar de pagina
+- Klik "Load model"
+- Kies als taal Dutch/Flemish (belangrijk!)
+- En dan "Run model"
 
-    Interviewer: Dat is interessant. Gebruik je ook andere bronnen, zoals nieuwswebsites of
+Dit kan een behoorlijke tijd duren. Zorg dat de computer aan blijft staan, anders pauzeert het verwerken ook! Aan het CPU-gebruik kun je zien dat het nog werkt. Na een tijdje krijg je een uitwerking (transcript) te zien. Het valt waarschijnlijk op dat er best wat fouten in zitten. We vermoeden dat de modellen nog niet voldoende getraind zijn met Nederlandse audio.
+
+Klik nu "Download transcript" om een JSON-bestand te downloaden. Doe dit voor alle audio-bestanden en geef de transcripts logische namen.
+
+Download nu een [Python-programmaatje om de JSON om te zetten naar een tekst-uitwerking](trans.py). Je ziet dat onderaan het programma staat dat de inputfile `transcript.json` moet heten en de output-file is dan `transcript.txt`. Pas dit steeds aan voordat je het programma runt!
+
+Dit is dus best wel wat handwerk, en dat is wat erbij hoort voor dit soort onderzoek. Het zijn stappen die je maar één keer hoeft te doen per interview.
+
+## Stap 3. Corrigeren
+
+De uitgeschreven interview bevatten nog veel fouten. Deze moeten met de hand worden gecorrigeerd. Hiervoor moet je het audiobestand luisteren en fouten aanpassen in de tekst. Zorg dus dat je de audiofile makkelijk kunt pauzeren om even te tikken (bv. op Mac open je ze in Quicktime Player en dan kun je met de pauzeknop op je toetsenbord werken).
+
+Verdeel dit werk over het team.
+
+Hieronder vind je een fragment uit een voorbeeld-interview. Het is een onderzoek dat gaat over gebruik van media voor het volgen van politieke ontwikkelingen. Je ziet dat de tekst is opgedeeld in segmenten, waar steeds wordt gemarkeerd wie wat zegt (interviewer I of deelnemer D3). Het is een gesprek met "deelnemer 3".
+
+    I: Dat is interessant. Gebruik je ook andere bronnen, zoals nieuwswebsites of
     televisie, om je op de hoogte te houden?
 
-    Deelnemer: Niet echt. Ik kijk bijna geen tv en nieuwswebsites vind ik vaak te saai of te
+    D3: Niet echt. Ik kijk bijna geen tv en nieuwswebsites vind ik vaak te saai of te
     moeilijk. Als ik iets belangrijks wil weten, zoek ik het op via Instagram of TikTok, waar
     anderen het al hebben samengevat.
 
-    Interviewer: Je noemde net dat je onderwerpen belangrijk vindt die direct impact hebben op je
+    I: Je noemde net dat je onderwerpen belangrijk vindt die direct impact hebben op je
     leven. Kun je daar een voorbeeld van geven?
 
-    Deelnemer: Ja, bijvoorbeeld klimaatprotesten. Ik zag dat een tijdje geleden jongeren op straat
+    D3: Ja, bijvoorbeeld klimaatprotesten. Ik zag dat een tijdje geleden jongeren op straat
     kwamen om meer actie te eisen van de regering. Dat vond ik echt iets waar ik over wilde weten,
     omdat ik me zorgen maak over hoe de aarde eruitziet als ik ouder ben.
 
 Zo moeten jullie uitwerkingen er ook uitzien.
 
-## Coderen van uitspraken
+## Stap 4. Coderen van uitspraken
 
-Bij het coderen ga je stukken tekst selecteren die relevant zijn voor je vraag. In overleg met je begeleider zijn er drie categorieën gekozen die jullie moeten coderen. In het voorbeeld hieronder zie je een uitgewerkt.
+Bij het coderen ga je stukken tekst selecteren die relevant zijn voor je vraag. In overleg met je begeleider zijn er **drie categorieën gekozen** die jullie moeten coderen (vraag je begeleider!!). In het voorbeeld hieronder zie je een uitgewerkt.
 
 - voorbeeldcategorie: Redenen om medium wel/niet te gebruiken
     - D3: "nieuwswebsites vind ik vaak te saai of te moeilijk"
@@ -45,9 +68,11 @@ Opmerking: hier wordt vrij letterlijk een reden genoemd waarom websites niet wor
 
 Opmerking: deze hele tekst is een voorbeeld van een reden om nieuws te volgen. De laatste zin van het fragment is het meest relevant, maar het stuk ervoor geeft belangrijke context en nemen we daarom mee voor het coderen.
 
-## Thema's vinden
+## Stap 5. Thema's vinden
 
 Als we alle uitspraken in alle data hebben gevonden die te maken hebben met de categorieën, ga je deze per stuk verwerken. Als voorbeeld nemen we de categorie "Redenen om medium wel/niet te gebruiken". We gaan op een kwalitatieve manier thema's zoeken, net als je hebt gedaan tijdens het eerste college.
+
+Zorg dat niets hiervan zelf verzonnen is. Alle ideeën uit de structuur moeten herleidbaar zijn naar een of meer uitspraken van deelnemers.
 
 Een voorbeelduitwerking kan de volgende zijn. Let op dat we hier **niet het medium noemen**. Dit is dus een lijst van algemene redenen.
 
