@@ -1,10 +1,8 @@
 # Analyse kwalitatief
 
-Als je interviews hebt gedaan, of een face-to-face enquete, dan moet je de audio van elke deelnemer opnemen en deze uitwerken.
+Als je interviews hebt gedaan, of een face-to-face enquete, of je hebt schriftelijke enquete-vragen die open antwoorden hebben opgeleverd, dan moet je deze "kwalitatief" analyseren. Kwalitatief staat hier tegenover kwantitatief. We gaan niet tellen, maar puur inhoudelijk naar de resultaten kijken.
 
-De eerste stap is om een nette representatie van de gesproken tekst te krijgen. Hierbij moet duidelijk zijn hoe het interview is verlopen: wie zei wat en wanneer.
-
-Daarna ga je analyseren.
+De eerste stap is om een nette representatie van de gesproken tekst te krijgen. Hierbij moet duidelijk zijn hoe het interview is verlopen: wie zei wat en wanneer. Daarna heb je het materiaal klaarstaan om te analyseren.
 
 ## Stap 1. Audio organiseren
 
@@ -72,11 +70,11 @@ Opmerking: deze hele tekst is een voorbeeld van een reden om nieuws te volgen. D
 
 ## Stap 5. Thema's vinden
 
-Als we alle uitspraken in alle data hebben gevonden die te maken hebben met de categorieën, ga je deze per stuk verwerken. Als voorbeeld nemen we de categorie "Redenen om medium wel/niet te gebruiken". We gaan op een kwalitatieve manier thema's zoeken, net als je hebt gedaan tijdens het eerste college.
+Als we alle uitspraken in alle data hebben gevonden die te maken hebben met de categorieën, ga je deze per stuk verwerken. Als voorbeeld nemen we één categorie: "Redenen om medium wel/niet te gebruiken". We gaan op een kwalitatieve manier thema's zoeken in de data, net als je hebt gedaan tijdens het eerste college.
 
-Zorg dat niets hiervan zelf verzonnen is. Alle ideeën uit de structuur moeten herleidbaar zijn naar een of meer uitspraken van deelnemers.
+Zorg dat niets hiervan zelf verzonnen is. Alle ideeën uit de gevonden structuur moeten herleidbaar zijn naar een of meer uitspraken van deelnemers. Elke analyse moet door minstens twee personen samen gedaan worden zodat je elkaars denkfouten/bias kunt corrigeren. Noteer wie aan welke analyse heeft gewerkt.
 
-Een voorbeelduitwerking kan de volgende zijn. Let op dat we hier **niet het medium noemen**. Dit is dus een lijst van algemene redenen.
+Een voorbeelduitwerking voor de categorie "Redenen om medium wel/niet te gebruiken" kan de volgende zijn. Let op dat we hier **niet het medium noemen**. Dit is dus een lijst van algemene redenen.
 
 - Redenen om medium **wel** te gebruiken:
 
