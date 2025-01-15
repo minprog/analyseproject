@@ -102,7 +102,7 @@ Een voorbeelduitwerking kan de volgende zijn. Let op dat we hier **niet het medi
     9.  Gebrek aan interactie: Geen mogelijkheid om zelf vragen te stellen of te reageren.
     10. Overload aan inhoud: Te veel onderwerpen tegelijk zonder duidelijke focus op wat relevant is.
 
-Een andere uitwerking kan er zo uitzien (een deel). Hier zie je dat we het belangrijk vonden om het medium wel te noemen. Dit kan relevant zijn voor beantwoording van de onderzoeksvraag.
+Een andere uitwerking kan er zo uitzien. Hier zie je dat we het belangrijk vonden om het medium wel te noemen. Wat de beste manier is hangt af van de vraag die je wil beantwoorden of gewoon of het "lukt" om de structuur goed te krijgen. Dit is best moeilijk! Blijf puzzelen tot je een logische structuur hebt die representatief is voor wat er in de interviews gezegd is.
 
 - Krant (Papieren of digitaal)
     - Redenen om wél te gebruiken:
@@ -126,3 +126,12 @@ Een andere uitwerking kan er zo uitzien (een deel). Hier zie je dat we het belan
         1. Moeilijk om diepgaande informatie te vinden via dit medium.
         2. Veel content is gefilterd of oppervlakkig.
         3. Politieke boodschappen kunnen worden overstemd door commerciële of lifestyle-content.
+
+Bovenstaande voorbeelden zijn trouwens zeer uitgebreid. Je hebt misschien 5 diepte-interviews of 20 enquetes met open vragen nodig om zo'n uitgebreide structuur te kunnen vinden.
+
+
+## Volgende stap
+
+Nu heb je het begin van een "theorie" die helpt begrijpen wat er speelt rondom jullie onderwerp.
+
+De resultaten ga je opnemen in het verslag dat je donderdag moet inleveren. Zie de aparte pagina voor instructies.
