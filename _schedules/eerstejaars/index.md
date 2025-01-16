@@ -224,7 +224,7 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
     - **Deadline SQL**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
     - **Werken aan opdracht** (11-13 uur)
         - <mark>Start opdracht Web Scraping</mark> (video's niet in les kijken)
-    - **Project** (15-17 uur in L0.11)
+    - **Project** (15-17 uur)
         - Instructie: data visualiseren, inzichtelijk maken
             - Kwantitatief kan in grafieken
             - Kwalitatief kan in thema's en quotes
@@ -246,7 +246,7 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
         - Begeleiders gaan langs hun groepjes om resultaten te peilen
         - Groepjes moeten bij elkaar zitten
 
-- **Donderdag 23 januari** (remote of L0.11)
+- **Donderdag 23 januari**
     - **Projectmeeting**
         - Bespreking inzichten dataverzameling
         - Uitwerken data
@@ -268,8 +268,8 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
 
 #### Deadlines en inlevermomenten
 
-- **Aftekenen Web Scraping**: tijdens werkcollege woensdag aftekenen (nader te bepalen tot waar)
-- **Projectnotebook (derde milestone)**: donderdag 23 januari, 15:00 uur
+- **Aftekenen Scraping**: tijdens werkcollege woensdag aftekenen (nader te bepalen tot waar)
+- **Tussenstand verslag**: donderdag 23 januari, 15:00 uur
 - **Oefenopdracht Web Scraping**: maandag 27 januari, 11:00 uur
 
 #### Begeleiding
