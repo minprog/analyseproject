@@ -10,9 +10,9 @@ Als je dataset grondig geanalyseerd hebt en de data heeft geen geheimen meer voo
 
 ## Ontbrekende data
 
-Zeker als je datasets gaat combineren, merk je dat er ontbrekende waarden zijn in de data. Eén reden is dat de ene dataset vaak niet precies dezelfde kolommen en rijen bevat als de andere. In de Pandas-module heb je al kort kennis gemaakt met methoden om "missing values" te markeren. <mark>LINK?</mark> Via de link vind je meer theorie. Het weglaten van missing values is vaak de makkelijkste manier om daar mee om te gaan, maar het invullen van missing values, het zogenaamde *imputeren* is een kunst op zich.
+Zeker als je datasets gaat combineren, merk je dat er ontbrekende waarden zijn in de data. Eén reden is dat de ene dataset vaak niet precies dezelfde kolommen en rijen bevat als de andere. In de Pandas-module heb je al kort kennis gemaakt met methoden om "missing values" te markeren. Het weglaten van missing values is vaak de makkelijkste manier om daar mee om te gaan, maar het invullen van missing values, het zogenaamde *imputeren* is een kunst op zich.
 
-**OPDRACHT B** Geef in minimaal 800 woorden van minimaal vijf variabelen met zulke missing values aan hoe je daar het beste mee om kunt gaan. Denk hierbij na over de manier waarop de data gebruikt en gecombineerd kan worden.
+**OPDRACHT B** Geef in minimaal 800 woorden van minimaal vijf variabelen met zulke missing values aan hoe je daar het beste mee om kunt gaan. Denk hierbij na over de manier waarop de data gebruikt en gecombineerd kan worden. Vraag ook advies aan je docenten.
 
 ## Een voorlopig antwoord
 
