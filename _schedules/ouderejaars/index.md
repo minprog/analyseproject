@@ -184,18 +184,20 @@ Milestone project op *woensdag*: een mooie nette notebook, een poster, en een pi
     - **Project**: Instructie over posters maken
     - **Activiteit**: Eerste schetsen van de poster en de kernboodschap, peer feedback
 
-- **Woensdag 29 januari** (11-15 uur):
+- **Woensdag 29 januari** (11-13 uur):
     - **Activiteit**: Formele peer review posters, met hulp van een rubric
-    - **Inleverdeadline**: Definitieve poster en pitch inleveren vóór 17:00 uur
+    - **Inleverdeadline**: Definitieve poster met docent aanvragen vóór 12:30 uur
+    - **Inleverdeadline middag**: Notebook, zie onder
 
-- **Donderdag 30 januari**:
-    - **Eindpresentaties**: Pitch geven bij de poster en vragen van publiek beantwoorden
+- **Donderdag 30 januari** (9-13 uur):
+    - **Eindpresentaties**:
+        - Pitch geven bij de poster en vragen van publiek beantwoorden
+        - Docenten bezoeken ook de poster, stellen vragen en vormen eindoordeel
 
 #### Deadlines en inlevermomenten
 
-- **Definitieve poster**: woensdag 29 januari, 11:00 uur
+- **Definitieve poster**: woensdag 29 januari, 12:30 uur
 - **Definitieve notebook**: woensdag 29 januari, 15:00 uur
-- **Uitgeschreven pitch**: woensdag 29 januari, 15:00 uur
 
 #### Begeleiding
 

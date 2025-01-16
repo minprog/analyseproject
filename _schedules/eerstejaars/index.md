@@ -162,7 +162,7 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
     - **Huiswerk**
         - <mark>Werken aan oefenopdracht SQL</mark>
 
-- **Woensdag 15 januari** (11-15 uur in L0.11)
+- **Woensdag 15 januari** (11-15 uur)
     - **Werken aan opdracht**
         - <mark>Werken aan oefenopdracht SQL</mark>, met assistentie
         - Let op tussendeadline, zie onder
@@ -179,10 +179,9 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
             - Enquetes: kwantitatief alles in CSV, kwalitatief apart
             - Rondje "Wat zie je in de data"
             - Rondje "Wat is onbruikbaar"
-        - Alles in de Notebook plaatsen (deadline)
-        - Notulen maken!
+        - Verslag en eventueel Notebook maken (deadline)
 
-- **Vrijdag 17 januari** (tijd nog indelen, in L0.11)
+- **Vrijdag 17 januari** (op verschillende locaties)
     - **Voortgangsbespreking**
         - Ongeveer 45 minuten per groepje
         - Presenteren van data en inzichten
@@ -223,7 +222,7 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
 
 - **Maandag 20 januari**
     - **Deadline SQL**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
-    - **Werken aan opdracht** (11-13 uur in L0.11, zaal blijft daarna beschikbaar)
+    - **Werken aan opdracht** (11-13 uur)
         - <mark>Start opdracht Web Scraping</mark> (video's niet in les kijken)
     - **Project** (15-17 uur in L0.11)
         - Instructie: data visualiseren, inzichtelijk maken
@@ -239,7 +238,7 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
     - **Huiswerk**
         - <mark>Werken aan oefenopdracht Web Scraping</mark>
 
-- **Woensdag 22 januari** (11-15 uur in L0.11)
+- **Woensdag 22 januari** (11-15 uur)
     - **Werken aan opdracht**
         - <mark>Werken aan oefenopdracht Web Scraping</mark>, met assistentie
         - Let op tussendeadline, zie onder
@@ -258,7 +257,7 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
         - Alles in de Notebook plaatsen (deadline)
         - Notulen maken!
 
-- **Vrijdag 24 januari** (tijd nog indelen, in L0.11)
+- **Vrijdag 24 januari** (op verschillende locaties)
     - **Voortgangsbespreking**
         - Ongeveer 45 minuten per groepje
         - Presenteren van data en inzichten
@@ -296,36 +295,38 @@ De laatste week van het vak is iets korter en staat helemaal in het teken van af
 
 - **Maandag 27 januari**
     - **Deadline Scraping**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
-    - **Project** (11-13 uur in L0.11)
+    - **Project** (11-13 uur)
         - Instructie: poster maken
             - Balans tekst en grafiek
             - Hoe presenteer je kwalitatief
         - Samen eerste schetsen poster maken, kernboodschap
         - Uitproberen pitch aan één ander groepje, luisteren naar vragen
         - Mogelijkheid tot vragen stellen aan begeleider
+    - **Project** (15-17 uur)
+        - Eerste versie poster peer review
+        - Minstens één docent moet ook feedback geven
 
 - **Dinsdag 28 januari** (remote of L0.11)
     - **Projectmeeting**
         - Poster samen afmaken
         - Expliciet een rondje doen: ieders gedachten over poster
+        - Laatste kans grote aanpassingen
         - Reflectie: doel bereikt dat in week 1 gesteld werd?
-        - Notulen maken!
 
-- **Woensdag 29 januari** (11-15 uur in L0.11)
-    - **Project**
-        - Formele peer review posters, met hulp van een rubric
-        - Let op de deadline vanmiddag!
-        - Notulen maken!
+- **Woensdag 29 januari** (11-13 uur)
+    - **Activiteit**: Formele peer review posters, met hulp van een rubric
+    - **Inleverdeadline**: Definitieve poster met docent aanvragen <mark>vóór 12:30 uur</mark>
+    - **Inleverdeadline middag**: Verslag, zie onder
 
-- **Donderdag 30 januari**
-    - **Eindpresentaties**
+- **Donderdag 30 januari** (9-13 uur):
+    - **Eindpresentaties**:
         - Pitch geven bij de poster en vragen van publiek beantwoorden
-        - Begeleider en mede-docent komen sowieso langs in verband met de beoordeling
+        - Docenten bezoeken ook de poster, stellen vragen en vormen eindoordeel
 
 #### Deadlines en inlevermomenten
 
-- **Definitieve poster**: woensdag 29 januari, 11:00 uur
-- **Uitgeschreven pitch**: woensdag 29 januari, 15:00 uur
+- **Definitieve poster**: woensdag 29 januari, 12:30 uur
+- **Definitief verslag**: woensdag 29 januari, 15:00 uur
 
 #### Begeleiding
 
