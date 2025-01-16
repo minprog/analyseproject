@@ -135,9 +135,9 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 
 ### Week 2: Dataverzameling en SQL
 
-Milestone voor het project: een Notebook met het aangepaste plan, verzamelde data en inzichten.
+Milestone voor het project: een PDF + notebook met verzamelde data en inzichten.
 
-Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de eerste week gaan je helpen om het goed uit te voeren. Of de *resultaten* goed zullen zijn weet je nooit helemaal zeker, maar jullie houden je aan het plan. Op de maandag is er wel een laatste kans om nog dingen aan te passen en je begeleider om input te vragen. Je krijgt dan ook instructies over het vragen van toestemming aan deelnemers. Op dinsdag wordt er data verzameld. Afhankelijk van het onderzoeksplan gebeurt dit op Science Park bij het vaste lokaal, of op een heel specifieke locatie elders (met toestemming van de begeleider). Naderhand doet het team een gezamenlijke *debrief* om te bespreken hoe het ging en wat jullie eerste inzichten zijn. Op woensdag tijdens het werkcollege gaan jullie de data uitwerken en analyseren. Jullie gaan afspreken hoe je de data zou kunnen presenteren in je Notebook. Dit gaan jullie vervolgens uitvoeren. Vrijdag volgt de presentatie aan de begeleider, met wie je dan ook evalueert wat er nog beter kan, en meteen afspraken maakt voor de volgende stap.
+Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de eerste week gaan je helpen om het goed uit te voeren. Of de *resultaten* goed zullen zijn weet je nooit helemaal zeker, maar jullie houden je aan het plan. Op de maandag is er wel een laatste kans om nog dingen aan te passen en je begeleider om input te vragen. Je krijgt dan ook instructies over het vragen van toestemming aan deelnemers. Op dinsdag wordt er data verzameld. Afhankelijk van het onderzoeksplan gebeurt dit op Science Park bij het vaste lokaal, of op een heel specifieke locatie elders (met toestemming van de begeleider). Naderhand doet het team een gezamenlijke *debrief* om te bespreken hoe het ging en wat jullie eerste inzichten zijn. Op woensdag tijdens het werkcollege gaan jullie de data uitwerken en analyseren. Jullie gaan afspreken hoe je de data zou kunnen presenteren in de PDF + notebook. Dit gaan jullie vervolgens uitvoeren. Vrijdag volgt de presentatie aan de begeleider, met wie je dan ook evalueert wat er nog beter kan, en meteen afspraken maakt voor de volgende stap.
 
 - **Maandag 13 januari**
     - **Deadline Pandas**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
@@ -190,7 +190,6 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
         - Wat is er eigenlijk nog nodig om vraag te beantwoorden
         - Bijsturen door docent: herzien plan nodig?
         - Plan maken voor volgende week, harde afspraak met docent
-        - Notulen maken!
     - **Groepsmeeting** na de bespreking
         - Stappenplan voor volgende week helemaal uitwerken
 
@@ -217,7 +216,7 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 
 ### Week 3: Analyse en Web Scraping
 
-Milestone voor het project: een Notebook met het aangepaste plan, verzamelde data en inzichten.
+Milestone voor het project: een PDF + notebook met het verzamelde en gecombineerde data en inzichten.
 
 In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat precies wordt is niet goed te voorspellen tot je week 2 helemaal hebt afgerond. Het kan zijn dat je data incompleet is, te weinig respondenten heeft, de verkeerde vragen gesteld, of je hebt niet goed gecoördineerd met teamgenoten. Maar het kan ook zijn dat je geen idee hebt hoe je iets zinnigs uit de data kunt halen, terwijl er toch wel een hoop in lijkt te zitten. In samenspraak met je begeleider ga je je onderzoek verbeteren. Een groot deel van het werk verzetten jullie op dinsdag, en woensdag is er dan weer een contactmoment om input te krijgen. Dit is het moment dat je extra scherp moet opletten hoe je begeleider reageert: wat moet je nog doen om het tot een goed einde te brengen? Er zijn immers nog maar een paar werkdagen te gaan tot de eindpresentaties.
 
@@ -252,10 +251,11 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
         - Bespreking inzichten dataverzameling
         - Uitwerken data
             - Interviews geheel uitschrijven
-            - Enquetes: kwantitatief alles in CSV, kwalitatief apart
+            - Enquetes: kwantitatief alles in CSV en dan in Pandas, kwalitatief apart
             - Rondje "Wat zie je in de data"
             - Rondje "Wat is onbruikbaar"
-        - Alles in de Notebook plaatsen (deadline)
+    - **Inleveren** (uiterlijk 15:00 uur)
+        - Alles in de PDF + notebook plaatsen (deadline)
 
 - **Vrijdag 24 januari** (op verschillende locaties)
     - **Voortgangsbespreking**
@@ -288,7 +288,7 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 
 ### Week 4: Posterpresentaties
 
-Milestone voor het project: een mooie nette notebook, een poster, en een pitch over je project.
+Milestone voor het project: een mooie nette PDF, notebook, een poster, en een pitch over je project.
 
 De laatste week van het vak is iets korter en staat helemaal in het teken van afronden. Op donderdag ga je met je team een posterpresentatie geven. Dat betekent dat je op een vel papier inzichtelijk moet maken wat je hebt ontdekt en hoe je dit kunt verantwoorden. Het publiek zal kritisch kijken naar alle aspecten van het onderzoek: Is de vraag echt beantwoord? Is de data zorgvuldig verzameld? Is de analyse gedaan zonder teveel bias van de onderzoekers? Gáát het eigenlijk wel ergens over? Dit is de kritische houding die elke onderzoeker in zich heeft, omdat we zo goed mogelijk ons best doen werk op te leveren waar anderen weer op kunnen bouwen. Ter voorbereiding ga je maandag een schets van je poster maken en dinsdag helemaal uitwerken. Jullie vragen om feedback en dan gaan jullie de poster echt uitwerken zodat je woensdagochtend een PDF kunt inleveren. De begeleiders zorgen dat de posters op groot formaat worden uitgeprint en donderdag is er dan eindelijk die presentatie (veel succes!). Daarna gaan de begeleiders direct aan de slag met de beoordeling.
 
