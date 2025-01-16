@@ -1,4 +1,4 @@
-# Studiewijzer Analyseproject (ouderejaars)
+# Studiewijzer Analyseproject<br><small>ouderejaars</small>
 
 **Periode**: maandag 6 januari 2025 -- donderdag 30 januari 2025  
 **Eindpresentaties**: donderdag 30 januari 2025

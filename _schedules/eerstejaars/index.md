@@ -1,4 +1,4 @@
-# Studiewijzer Analyseproject (eerstejaars)
+# Studiewijzer Analyseproject<br><small>eerstejaars</small>
 
 <mark>Alles aan deze studiewijzer kan nog aangepast worden. De up-to-date versie komt op de cursuswebsite.</mark>
 
