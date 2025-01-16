@@ -53,7 +53,7 @@ In het begin van de week steek je steeds veel tijd in je individuele skills voor
 
 Bijeenkomsten hieronder zijn verplicht.
 
-<mark>Individiueel werk voor project of opdrachten is hieronder gemarkeerd zoals deze regel. Dit moet je zelf goed plannen, je kunt hiervoor niet op je groepje leunen.</mark>
+<mark>Individueel werk voor project of opdrachten is hieronder gemarkeerd zoals deze regel. Dit moet je zelf goed plannen, je kunt hiervoor niet op je groepje leunen.</mark>
 
 ### Week 1: Onderzoeksplan en Pandas
 
@@ -144,10 +144,10 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
 
 - **Maandag 13 januari**
     - **Deadline Pandas**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
-    - **Werken aan opdracht** (11-13 uur op verschillende locaties, zaal L0.11 blijft daarna beschikbaar)
+    - **Werken aan opdracht** (11-13 uur)
         - <mark>Start opdracht SQL</mark> (videocollege niet in les kijken)
-    - **Project** (15-17 uur in C0.110)
-        - Instructie: informed consent, ...
+    - **Project** (15-17 uur)
+        - Instructie: informed consent
         - Mogelijkheid tot vragen stellen aan begeleider
         - Onderzoeksmethode moet vooraf helemaal uitgewerkt zijn
         - Laatste voorbereiding dataverzameling van morgen
@@ -196,7 +196,7 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
 #### Deadlines en inlevermomenten
 
 - **Aftekenen SQL**: tijdens werkcollege woensdag aftekenen Movies
-- **Projectnotebook (tweede milestone)**: donderdag 16 januari, 15:00 uur
+- **Projectverslag + notebook**: donderdag 16 januari, 15:00 uur
 - **Oefenopdracht SQL**: maandag 20 januari, 11:00 uur
 
 #### Begeleiding
