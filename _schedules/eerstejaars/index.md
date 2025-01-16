@@ -341,8 +341,7 @@ De laatste week van het vak is iets korter en staat helemaal in het teken van af
 
 Docenten houden het volgende bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
 
-- Voortgang project op maandag
-- Voortgang Web Scraping-opdracht op woensdag
+- Deelname peer reviews
 - Welke vragen gesteld, hulp gevraagd
 - Hoe project is aangepast op basis van inzicht
 
