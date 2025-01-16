@@ -293,33 +293,42 @@ Milestone voor het project: een mooie nette notebook, een poster, en een pitch o
 
 De laatste week van het vak is iets korter en staat helemaal in het teken van afronden. Op donderdag ga je met je team een posterpresentatie geven. Dat betekent dat je op een vel papier inzichtelijk moet maken wat je hebt ontdekt en hoe je dit kunt verantwoorden. Het publiek zal kritisch kijken naar alle aspecten van het onderzoek: Is de vraag echt beantwoord? Is de data zorgvuldig verzameld? Is de analyse gedaan zonder teveel bias van de onderzoekers? Gáát het eigenlijk wel ergens over? Dit is de kritische houding die elke onderzoeker in zich heeft, omdat we zo goed mogelijk ons best doen werk op te leveren waar anderen weer op kunnen bouwen. Ter voorbereiding ga je maandag een schets van je poster maken en dinsdag helemaal uitwerken. Jullie vragen om feedback en dan gaan jullie de poster echt uitwerken zodat je woensdagochtend een PDF kunt inleveren. De begeleiders zorgen dat de posters op groot formaat worden uitgeprint en donderdag is er dan eindelijk die presentatie (veel succes!). Daarna gaan de begeleiders direct aan de slag met de beoordeling.
 
+- **Maandag-deadline (11 uur)**
+    - **Scraping**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
+
 - **Maandag 27 januari**
-    - **Deadline Scraping**: <mark>vóór het werkcollege inleveren, ook als mislukt</mark>
-    - **Project** (11-13 uur)
+    - **Ochtendbijeenkomst** (11-13 uur)
         - Instructie: poster maken
             - Balans tekst en grafiek
             - Hoe presenteer je kwalitatief
         - Samen eerste schetsen poster maken, kernboodschap
         - Uitproberen pitch aan één ander groepje, luisteren naar vragen
         - Mogelijkheid tot vragen stellen aan begeleider
-    - **Project** (15-17 uur)
-        - Eerste versie poster peer review
+    - **Meteen poster op gaan maken en uitwerken**
+    - **Middagbijeenkomst** (15-17 uur)
+        - Eerste versie poster peer review (rubric wordt aangeleverd)
         - Minstens één docent moet ook feedback geven
 
-- **Dinsdag 28 januari** (remote of L0.11)
-    - **Projectmeeting**
+- **Dinsdag 28 januari**
+    - **Groepsmeeting**
         - Poster samen afmaken
         - Expliciet een rondje doen: ieders gedachten over poster
         - Laatste kans grote aanpassingen
         - Reflectie: doel bereikt dat in week 1 gesteld werd?
 
-- **Woensdag 29 januari** (11-13 uur)
-    - **Activiteit**: Formele peer review posters, met hulp van een rubric
-    - **Inleverdeadline**: Definitieve poster met docent aanvragen <mark>vóór 12:30 uur</mark>
-    - **Inleverdeadline middag**: Verslag, zie onder
+- **Woensdag 29 januari**
+    - **Activiteit** (11-13 uur)
+        - Formele peer review posters (rubric wordt aangeleverd)
+    - **Posterprint** (uiterlijk 12:30)
+        - Definitieve poster met docent aanvragen <mark>vóór 12:30 uur</mark>
+    - **Inleveren** (uiterlijk 15:00 uur)
+        - Verslag en notebook, via website
 
-- **Donderdag 30 januari** (9-13 uur):
-    - **Eindpresentaties**:
+- **Donderdag 30 januari**
+    - **Posters ophalen en ophangen** (9-10 uur)
+        - Afhalen bij cafe-restaurant Polder
+        - Ophalen in lokaal/hal (aan te geven door docent)
+    - **Eindpresentaties** (10-13 uur)
         - Pitch geven bij de poster en vragen van publiek beantwoorden
         - Docenten bezoeken ook de poster, stellen vragen en vormen eindoordeel
 
