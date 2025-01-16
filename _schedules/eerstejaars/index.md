@@ -41,10 +41,6 @@ Daarnaast kun je punten verdienen door te oefenen met technieken voor dataverwer
 
 Zoals je ziet ligt er een hoop verantwoordelijkheid bij jou om vorm te geven aan je werk in het vak. Als je redelijkerwijs de instructies volgt kom je wel een heel eind, maar zorg echt zelf dat je je leren zichtbaar maakt.
 
-### Notulen
-
-Alle bijeenkomsten met de groep moeten worden genotuleerd door mensen uit de groep. De notulen worden gebruikt in de beoordeling.
-
 ---
 
 ## Weekoverzicht
@@ -81,7 +77,7 @@ Zodra de vraag scherp is gaan jullie als team een gezamenlijk onderzoeksplan sch
 - **Dinsdag 7 januari**
     - **Voorbereiding project**
         - <mark>Elk teamlid doet online achtergrondonderzoek: goed begrijpen wat er speelt rondom de gekozen Grote Vraag</mark>
-        - Inleveren volgens instructie op website
+        - [Opdracht en inleveren](/project/achtergrond)
     - **Huiswerk**
         - <mark>Werken aan oefenopdracht Pandas</mark>
 
@@ -102,7 +98,8 @@ Zodra de vraag scherp is gaan jullie als team een gezamenlijk onderzoeksplan sch
         - Kiezen onderzoeksvraag
         - Ideeën bedenken voor onderzoeksmethoden, wat zou kunnen?
         - Korte voorstellen uitwerken
-        - Alle opties in een PDF plaatsen (let op deadline 15 uur)
+    - **Inleveren** (uiterlijk 15 uur)
+        - [Projectplan](/project/plan)
 
 - **Vrijdag 10 januari** (op verschillende locaties)
     - **Voortgangsbespreking**
@@ -153,6 +150,8 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
         - Laatste voorbereiding dataverzameling van morgen
             - Materiaal printen
             - Meenemen formulieren geïnformeerde toestemming (informed consent)
+    - **Inleveren** (uiterlijk 17 uur)
+        - [Methode voor dataverzameling](/project/methode)
 
 - **Dinsdag 14 januari** (op Science Park in L0.11!!)
     - **Dag van de dataverzameling 1**
@@ -169,6 +168,8 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
     - **Project**
         - Begeleiders gaan langs hun groepjes om resultaten te peilen
         - Data uitwerken en analyseren!
+            - [Instructie analyse kwalitatieve data](/project/kwalitatief)
+            - [Instructie analyse kwantitatieve data](/project/kwantitatief)
         - Groepjes moeten bij elkaar zitten
 
 - **Donderdag 16 januari** (remote of L0.11)
@@ -179,7 +180,7 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
             - Enquetes: kwantitatief alles in CSV, kwalitatief apart
             - Rondje "Wat zie je in de data"
             - Rondje "Wat is onbruikbaar"
-        - Verslag en eventueel Notebook maken (deadline)
+        - [Verslag en eventueel Notebook maken](/project/tussenstand) (deadline)
 
 - **Vrijdag 17 januari** (op verschillende locaties)
     - **Voortgangsbespreking**
@@ -255,7 +256,6 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
             - Rondje "Wat zie je in de data"
             - Rondje "Wat is onbruikbaar"
         - Alles in de Notebook plaatsen (deadline)
-        - Notulen maken!
 
 - **Vrijdag 24 januari** (op verschillende locaties)
     - **Voortgangsbespreking**
@@ -264,7 +264,6 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
         - Bijsturen door docent: keuzes maken, dingen niet doen en dingen uitwerken
         - Ideeën voor poster brainstormen
         - Plan maken voor volgende week, harde afspraak met docent
-        - Notulen maken!
 
 #### Deadlines en inlevermomenten
 
