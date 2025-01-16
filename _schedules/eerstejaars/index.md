@@ -177,7 +177,7 @@ Deze tweede week ga je aan de slag met onderzoek doen. De voorbereidingen van de
         - Bespreking inzichten dataverzameling
         - Uitwerken data
             - Interviews geheel uitschrijven
-            - Enquetes: kwantitatief alles in CSV, kwalitatief apart
+            - Enquetes: kwantitatief alles in CSV en dan in Pandas, kwalitatief apart
             - Rondje "Wat zie je in de data"
             - Rondje "Wat is onbruikbaar"
         - [Verslag en eventueel Notebook maken](/project/tussenstand) (deadline)
