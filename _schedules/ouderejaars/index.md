@@ -1,7 +1,5 @@
 # Studiewijzer Analyseproject (ouderejaars)
 
-<mark>Alles aan deze studiewijzer kan nog aangepast worden. De up-to-date versie komt op de cursuswebsite.</mark>
-
 **Periode**: maandag 6 januari 2025 -- donderdag 30 januari 2025  
 **Eindpresentaties**: donderdag 30 januari 2025
 
@@ -48,20 +46,18 @@ In het procesboek moet elke student per uur aangeven waar aan is gewerkt. Ook mo
 
 Bijeenkomsten hieronder zijn verplicht.
 
-<mark>Let op: milestone-beschrijvingen worden nog aangepast, en ook details van wat je moet opleveren tijdens de weken. (Het schema is dus niet definitief.)</mark>
-
 ### Week 1: Datasetselectie en Pandas
 
-Milestone project op vrijdag: dataset presenteren en karakteristieken beschrijven.
+Milestone project op vrijdag: dataset presenteren en kwaliteit beschrijven.
 
-- **Maandag 6 januari** (11-13 uur, start in C1.112, daarna L0.12)
+- **Maandag 6 januari** (11-13 uur)
     - **Kick-off technieken**:
         - Uitleg tools: Notebooks en Pandas
         - Installatie-check
         - Start opdracht Pandas
     - Geen hoorcollege (dat is voor de eerstejaars)
 
-- **Woensdag 8 januari** (11-15 uur in L1.04)
+- **Woensdag 8 januari** (11-15 uur)
     - **Werken aan opdracht** (vanaf 11 uur):
         - Werken aan oefenopdracht Pandas, met assistentie
         - Let op <mark>tussendeadline</mark>, zie onder
@@ -106,14 +102,14 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 
 Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde notebook en statistische beschrijving/visualisaties.
 
-- **Maandag 13 januari** (11-13 uur in A1.08)
+- **Maandag 13 januari** (11-13 uur)
     - **Deadline Pandas**: vóór het werkcollege inleveren, ook als mislukt
     - **Werken aan project**:
         - Inladen in Pandas, analyseren en beschrijven van datakwaliteit en datadistributies
     - **Werken aan opdracht**:
         - Start opdracht SQL (videocollege niet in les kijken)
 
-- **Woensdag 15 januari**:
+- **Woensdag 15 januari** (11-15 uur):
     - **Projectvoortgang**: Rondje individuele feedback op data-inzichten en notebook
     - **Werken aan opdracht**: Werken aan oefenopdracht Pandas, met assistentie
 
@@ -143,20 +139,20 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 
 ### Week 3: Onderzoeksvraag en Web Scraping
 
-Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verfijnde stats en visualisaties
+Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verfijnde stats en visualisaties.
 
-- **Maandag 20 januari** (11-13 uur in A1.08)
+- **Maandag 20 januari** (11-13 uur)
     - **Deadline SQL**: vóór het werkcollege inleveren, ook als mislukt
-    - **Project**: Visualisaties maken en antwoorden van de onderzoeksvraag
+    - **Project**: Visualisaties maken en beantwoorden van de onderzoeksvraag
     - **Dataverwerking**:
         - Start opdracht Web Scraping
 
-- **Woensdag 22 januari**:
-    - **Project**: Feedback op visualisaties?
+- **Woensdag 22 januari** (11-15 uur):
+    - **Project**: Feedback op visualisaties
     - **Opdracht**: Werken aan oefenopdracht Web Scraping, met assistentie
 
 - **Vrijdag 24 januari**:
-    - **Voortgangsbespreking**: Bespreken van analyses. Wat kan er volgende week gepresenteerd worden?
+    - **Voortgangsbespreking**: Bespreken van analyses en conclusies. Wat kan er volgende week gepresenteerd worden?
 
 #### Deadlines en inlevermomenten
 
@@ -183,12 +179,12 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 
 Milestone project op *woensdag*: een mooie nette notebook, een poster, en een pitch over je project
 
-- **Maandag 27 januari** (11-13 uur in A1.08)
+- **Maandag 27 januari** (11-13 uur)
     - **Deadline Scraping**: vóór het werkcollege inleveren, ook als mislukt
     - **Project**: Instructie over posters maken
     - **Activiteit**: Eerste schetsen van de poster en de kernboodschap, peer feedback
 
-- **Woensdag 29 januari**:
+- **Woensdag 29 januari** (11-15 uur):
     - **Activiteit**: Formele peer review posters, met hulp van een rubric
     - **Inleverdeadline**: Definitieve poster en pitch inleveren vóór 17:00 uur
 
@@ -198,6 +194,7 @@ Milestone project op *woensdag*: een mooie nette notebook, een poster, en een pi
 #### Deadlines en inlevermomenten
 
 - **Definitieve poster**: woensdag 29 januari, 11:00 uur
+- **Definitieve notebook**: woensdag 29 januari, 15:00 uur
 - **Uitgeschreven pitch**: woensdag 29 januari, 15:00 uur
 
 #### Begeleiding
