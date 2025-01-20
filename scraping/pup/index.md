@@ -39,6 +39,6 @@ Geef als oplossing de complete pup-commando's onder elkaar in één tekstbestand
 
 1.  Zoek uit hoe je alle headlines kunt scrapen, dus de koppen van het nieuws.
 
-1.  Zoek uit hoe je een korte omschrijving van het weer kunt printen vanuit de website van het KNMI (download html [hier](weer.html)).
+1.  Zoek uit hoe je een korte omschrijving van het weer kunt printen vanuit de website van Weeronline (download html [hier](weer.html)).
 
 1.  Zoek uit hoe je alle `tr` elementen uit de tabel op <https://pythonscraping.com/pages/page3.html> kunt scrapen, maar met uitzondering van het eerste `tr`-element (deze bevat de tabelkopjes en die hebben we niet nodig). In de README van Pup staan de selectors die je kunt gebruiken. Volg de link naar MDN om uit te zoeken hoe ze werken.
