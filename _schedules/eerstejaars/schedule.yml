@@ -11,11 +11,15 @@ Startup:
 
     Pandas:
         Opdracht Pandas: /pandas
+
+    SQL:
         Video SQL: /databases/lecture
         Opdracht Movies: /databases/movies
         Opdracht Fiftyville: /databases/fiftyville
-        Scraping: /scraping
-        Werken met Pup: /scraping/pup
+
+    Scraping:
+        Uitleg en oefenen: /scraping
+        Opdrachten Pup: /scraping/pup
 
 Inhoud:
     Project:
