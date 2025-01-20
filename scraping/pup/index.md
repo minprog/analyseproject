@@ -2,10 +2,20 @@
 
 ## Installatie
 
+Voor Windows:
+
 - [Installeer Git for Windows](https://gitforwindows.org)
 - Maak een nieuwe map voor de scraping-opdrachten
 - [Download de Pup-tool](https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_windows_amd64.zip) en zet `pup.exe` in die map
 - Ga naar de Verkenner/Explorer, klik rechts op die map en open in Git Bash
+
+Voor Mac:
+
+- Ga naar de Terminal
+- Probeer `brew install pup`
+- Als je daarna `pup -h` tikt en je krijgt wat uitleg te zien en version 0.4.0, dan zit je goed.
+- Maak een nieuwe map voor de scraping-opdrachten
+- Open de Terminal in die map door de map naar het Terminal-icon in de dock te slepen
 
 ## Uitzoekwerk
 
@@ -17,9 +27,15 @@ Scraping met `pup` gaat op basis van de selectors die ook in CSS gebruikt worden
 
 Zorg dat je een html-bestand in de map hebt staan om mee te testen. Download bijvoorbeeld [War and Peace](https://www.pythonscraping.com/pages/warandpeace.html) (rechtsklik en download).
 
-Geef dan het volgende commando om `pup` te testen:
+Geef dan het volgende commando om `pup` te testen.
 
-    cat warandpeace.html | pup -c 'h1 text{}'
+- **Windows**
+
+        cat warandpeace.html | ./pup -c 'h1 text{}'
+
+- **Mac**
+
+        cat warandpeace.html | pup -c 'h1 text{}'
 
 Dit zou de inhoud van de eerste `h1`-tag moeten geven, en dat is "War and Peace".
 
