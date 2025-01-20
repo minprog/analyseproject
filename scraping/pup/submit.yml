@@ -1,0 +1,4 @@
+name: pup
+files:
+    required:
+        - pup.txt
