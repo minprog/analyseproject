@@ -9,8 +9,12 @@ templates:
 grades:
     achtergrond: *aftekenen
     plan: *aftekenen
-    tussenstand: *aftekenen
-    verslag: *aftekenen
+    tussenstand:
+        <<: *aftekenen
+        deadline: 16/01/25 15:00
+    verslag:
+        <<: *aftekenen
+        deadline: 23/01/25 15:00
 
 milestones:
     show_progress: true
