@@ -1,0 +1,13 @@
+grades:
+    achtergrond: *aftekenen
+    plan: *aftekenen
+    tussenstand: *aftekenen
+    verslag: *aftekenen
+
+milestones:
+    show_progress: true
+    submits:
+        dm1: 1
+        dm2: 1
+        dm3: 1
+        dm4: 1

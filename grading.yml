@@ -1,0 +1,55 @@
+templates:
+    1: &automatisch
+        type: pass
+        subgrades:
+            akkoord: boolean
+        automatic:
+            akkoord: -(correctness_score.floor)
+        calculation: akkoord
+        auto_publish: true
+        hide_calculated: true
+    2: &cijfer
+        type: float
+        subgrades:
+            cijfer: float
+        calculation: cijfer
+        hide_calculated: true
+        is_test: true
+    3: &aftekenen
+        type: pass
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        hide_subgrades: true
+
+grades:
+    movies: *automatisch
+    fiftyville: *automatisch
+
+    pandas: *aftekenen
+    sql: *aftekenen
+    pup: *aftekenen
+    
+    project: *cijfer
+
+calculation:
+    eindcijfer:
+        opdrachten: 3
+        project: 6
+    eindcijfer_data:
+        opdrachten: 3
+        data_project: 6
+
+opdrachten:
+    show_progress: true
+    type: points
+    submits:
+        pandas: 1
+        sql: 1
+        pup: 1
+
+project:
+    show_progress: true
+    type: points
+    submits:
+        project: 1
