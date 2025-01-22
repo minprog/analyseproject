@@ -1,8 +1,10 @@
-# Eindverslag
+# Verslag
 
 Je hebt deze week weer kwalitatieve en kwantitatieve data verzameld en/of geanalyseerd.
 
 Nu is het zaak om alles overzichtelijk te maken zodat je begeleider zorgvuldig mee kan lezen en ook meedenken.
+
+Het is een min of meer definitief verslag, hoewel we verwachten dat jullie nog verbeteringen zullen moeten doen.
 
 - Het hele verslag, inclusief kwalitatieve analyse, moet aangeleverd worden in een PDF.
 
