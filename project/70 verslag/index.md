@@ -25,6 +25,13 @@ Het is een min of meer definitief verslag, hoewel we verwachten dat jullie nog v
 
     ![](schema.png)
 
+    Dus even voor de duidelijkheid, de verwachte hoofdstukken:
+    
+    1. Beschrijving verschillende databronnen of onderdelen (nummer ze D1 en verder)
+    2. Beschrijving van de verrichte analyses (nummer elke analyse A1 en verder) met verwijzing naar databronnen en uitleg resultaten
+    3. Beschrijving van de inzichten die uit de analyses komen, georganiseerd per analyse of op een nuttige manier gegroepeerd (nummer elk inzicht I1)
+    4. Beschrijving in hoeverre jullie inzicht hebben in de onderzoeksvraag, door inzichten aan elkaar te relateren.
+
     Elk onderdeel moet beschreven worden in het verslag, maar je moet ook heel expliciet zijn in 
     de verbanden die je legt (databronnen X en Y gebruiken we voor een analyse van categorie Z, resultaten zijn...)
 
