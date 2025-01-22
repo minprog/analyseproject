@@ -1,3 +1,11 @@
+templates:
+    3: &aftekenen
+        type: pass
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        hide_subgrades: true
+
 grades:
     achtergrond: *aftekenen
     plan: *aftekenen
