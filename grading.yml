@@ -36,9 +36,6 @@ calculation:
     eindcijfer:
         opdrachten: 3
         project: 6
-    eindcijfer_data:
-        opdrachten: 3
-        data_project: 6
 
 opdrachten:
     show_progress: true
