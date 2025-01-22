@@ -4,7 +4,7 @@ templates:
         subgrades:
             akkoord: boolean
         calculation: akkoord
-        hide_subgrades: true
+        hide_calculated: true
 
 grades:
     achtergrond: *aftekenen
@@ -17,7 +17,7 @@ grades:
         deadline: 23/01/25 15:00
 
 milestones:
-    show_progress: true
+    show_overview: true
     submits:
         achtergrond: 1
         plan: 1

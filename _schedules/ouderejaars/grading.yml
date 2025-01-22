@@ -4,7 +4,7 @@ templates:
         subgrades:
             akkoord: boolean
         calculation: akkoord
-        hide_subgrades: true
+        hide_calculated: true
 
 grades:
     dm1: *aftekenen
@@ -13,7 +13,7 @@ grades:
     dm4: *aftekenen
 
 milestones:
-    show_progress: true
+    show_overview: true
     submits:
         dm1: 1
         dm2: 1
