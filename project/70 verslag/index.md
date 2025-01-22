@@ -19,7 +19,7 @@ Het is een min of meer definitief verslag, hoewel we verwachten dat jullie nog v
 2. Leg uit waar het onderzoek over gaat:
 
     - gekozen thema
-    - de gevonden onderzoeksvraag (de meest recente versie van vóór de dataverzameling)
+    - de gevonden onderzoeksvraag (de meest recente versie van vóór de laatste dataverzameling)
 
 3. Beschrijf op basis van je analyseschema je onderzoek. Elk van de 4 onderdelen moet een apart hoofdstuk worden, met daarin heel zorgvuldig alle aparte delen uitgewerkt.
 
