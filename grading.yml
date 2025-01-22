@@ -45,6 +45,12 @@ opdrachten:
         sql: 1
         pup: 1
 
+ingeleverd:
+    show_overview: true
+    submits:
+        movies: 1
+        fiftyville: 1
+
 project:
     show_progress: true
     type: points
