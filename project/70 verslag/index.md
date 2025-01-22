@@ -23,6 +23,9 @@ Nu is het zaak om alles overzichtelijk te maken zodat je begeleider zorgvuldig m
 
     ![](schema.png)
 
+    Elk onderdeel moet beschreven worden in het verslag, maar je moet ook heel expliciet zijn in 
+    de verbanden die je legt (databronnen X en Y gebruiken we voor een analyse van categorie Z, resultaten zijn...)
+
 4. Vergeet de genummerde bijlagen niet:
 
     - Per interview een aparte bijlage met identificatie
