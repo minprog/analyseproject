@@ -26,9 +26,13 @@ grades:
     movies: *automatisch
     fiftyville: *automatisch
 
-    pandas: *aftekenen
+    pandas:
+        <<: *aftekenen
+        deadline: 13/01/25 11:00
     sql: *aftekenen
-    pup: *aftekenen
+    pup:
+        <<: *aftekenen
+        deadline: 27/01/25 11:00
     
     project: *cijfer
 
