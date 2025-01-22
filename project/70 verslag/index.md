@@ -21,7 +21,7 @@ Het is een min of meer definitief verslag, hoewel we verwachten dat jullie nog v
     - gekozen thema
     - de gevonden onderzoeksvraag (de meest recente versie van vóór de laatste dataverzameling)
 
-2. Beschrijf hoe je data hebt verzameld. Welke analyses je doet beschrijf je bij de volgende stap.
+2. Beschrijf hoe je data hebt verzameld (welke datums, doelgroepen, manier, welke vragen enz). Dit is een deel van wat we de "methode" noemen. Welke analyses je doet hoor daar ook bij, maar die beschrijf je bij de volgende stap.
 
 3. Beschrijf op basis van je analyseschema je onderzoek. Elk van de 4 onderdelen moet een apart hoofdstuk worden, met daarin heel zorgvuldig alle aparte delen uitgewerkt.
 
