@@ -241,7 +241,7 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
 - **Woensdag 22 januari** (11-15 uur)
     - **Werken aan opdracht**
         - <mark>Werken aan oefenopdracht Web Scraping</mark>, met assistentie
-        - Let op tussendeadline, zie onder
+        - Let op deadline, zie onder
     - **Project**
         - Begeleiders gaan langs hun groepjes om resultaten te peilen
         - Groepjes moeten bij elkaar zitten
@@ -267,7 +267,7 @@ In de derde week ga je een extra iteratie doen in je onderzoek. Welke stap dat p
 
 #### Deadlines en inlevermomenten
 
-- **Aftekenen Scraping**: tijdens werkcollege woensdag aftekenen (nader te bepalen tot waar)
+- **Aftekenen Scraping**: tijdens werkcollege woensdag aftekenen (helemaal af moet lukken)
 - **Tussenstand verslag**: donderdag 23 januari, 15:00 uur
 - **Oefenopdracht Web Scraping**: maandag 27 januari, 11:00 uur
 
