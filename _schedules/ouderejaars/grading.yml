@@ -7,10 +7,10 @@ templates:
         hide_subgrades: true
 
 grades:
-    achtergrond: *aftekenen
-    plan: *aftekenen
-    tussenstand: *aftekenen
-    verslag: *aftekenen
+    dm1: *aftekenen
+    dm2: *aftekenen
+    dm3: *aftekenen
+    dm4: *aftekenen
 
 milestones:
     show_progress: true
