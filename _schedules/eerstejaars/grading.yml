@@ -15,6 +15,7 @@ grades:
     verslag:
         <<: *aftekenen
         deadline: 23/01/25 15:00
+        deadline_hard: false
 
 milestones:
     show_overview: true
