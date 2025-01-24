@@ -15,7 +15,13 @@ grades:
     verslag:
         <<: *aftekenen
         deadline: 23/01/25 15:00
-        deadline_hard: false
+    update:
+        <<: *aftekenen
+        deadline: 27/01/25 11:00
+    poster: *aftekenen
+    eindverslag:
+        <<: *aftekenen
+        deadline: 29/01/25 15:00
 
 milestones:
     show_overview: true
@@ -24,3 +30,6 @@ milestones:
         plan: 1
         tussenstand: 1
         verslag: 1
+        update: 1
+        poster: 1
+        eindverslag: 1
