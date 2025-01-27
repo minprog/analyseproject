@@ -11,6 +11,7 @@ grades:
     dm2: *aftekenen
     dm3: *aftekenen
     dm4: *aftekenen
+    poster: *aftekenen
 
 milestones:
     show_overview: true
@@ -18,4 +19,5 @@ milestones:
         dm1: 1
         dm2: 1
         dm3: 1
+        poster: *aftekenen
         dm4: 1

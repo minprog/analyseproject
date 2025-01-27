@@ -1,5 +1,4 @@
-name: dm4
+name: poster
 files:
     required:
-        - milestone4.ipynb
         - poster.pdf

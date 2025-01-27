@@ -5,7 +5,8 @@ Startup:
         Milestone 1: /dataset/keuze
         Milestone 2: /dataset/beschrijving
         Milestone 3: /dataset/extra
-        Poster-instructie: /project/poster
+        Poster-instructie [4e dinsdag 17:00]: /project/poster
+        Milestone 4: /dataset/final
 
     Pandas:
         Opdracht Pandas: /pandas
@@ -18,16 +19,3 @@ Startup:
     Scraping:
         Uitleg en oefenen: /scraping
         Opdrachten Pup: /scraping/pup
-
-Inhoud:
-    Project:
-        Milestone 1: /dataset/keuze
-        Milestone 2: /dataset/beschrijving
-        Milestone 3: /dataset/extra
-        Milestone 4: /dataset/presentatie
-        Milestone 5: /dataset/poster
-
-    Scraping:
-        Scraping: /scraping
-        Werken met Pup: /scraping/pup
-        # Scraping: /scraping/oefeningen

@@ -10,7 +10,7 @@ Startup:
         Tussenstand [2e donderdag 15:00]: /project/tussenstand
         Verslag [3e donderdag 15:00]: /project/verslag
         Update verslag [1e maandag 11:00]: /project/update
-        Poster-instructie: /project/poster
+        Poster-instructie [4e dinsdag 17:00]: /project/poster
 
     Pandas:
         Opdracht Pandas: /pandas
@@ -23,20 +23,3 @@ Startup:
     Scraping:
         Uitleg en oefenen: /scraping
         Opdrachten Pup: /scraping/pup
-
-Inhoud:
-    Project:
-        bla: ''
-
-    Pandas:
-        Opdracht Pandas: /pandas
-
-    Databases:
-        Videocollege: /databases/lecture
-        Movies: /databases/movies
-        Fiftyville: /databases/fiftyville
-
-    Scraping:
-        Scraping: /scraping
-        Werken met Pup: /scraping/pup
-        # Scraping: /scraping/oefeningen
