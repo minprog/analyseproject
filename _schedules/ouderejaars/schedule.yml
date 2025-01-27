@@ -5,6 +5,7 @@ Startup:
         Milestone 1: /dataset/keuze
         Milestone 2: /dataset/beschrijving
         Milestone 3: /dataset/extra
+        Poster-instructie: /project/poster
 
     Pandas:
         Opdracht Pandas: /pandas
