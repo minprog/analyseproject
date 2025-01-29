@@ -1,4 +1,4 @@
-# Stap 4. Presentatie van de resultaten
+# Stap 4. Eindverslag
 
 > Let op! Werk voor deze opdracht door met de Notebook die je bij de vorige milestone gemaakt hebt.
 
