@@ -9,6 +9,7 @@ Dubbelcheck of deze onderdelen in één of andere vorm aanwezig zijn:
 - Per method ook welke vragen gesteld, wat voor soort antwoorden mochten gegeven worden (niet in bijlage aub)
 - Welke databronnen er nu zijn (D1, D2, ...) 
 - Welke analyses gedaan (A1, A2, ...) en bij analyse bron APART uitgelegd hoe en op basis van welke databron (D1, D2, ..)
+    - Let op: beschrijf hier ook de resultaten van de analyses! Dus als je kwalitatieve analyse hebt gedaan en thema's hebt gevonden uitleggen welke en op basis van welke uitspraken van mensen.
 - Welke inzichten opgedaan (I1, I2, ...) met per inzicht APART uitgelegd op basis van welke data/analyse je dit concludeert
 - Conclusie over onderzoeksvraag en in hoeverre je inzichten (met nummers) bijdragen aan de beantwoording.
 - Bijlagen: interview-uitwerkingen, andere kwalitatieve data
