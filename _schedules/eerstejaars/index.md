@@ -1,7 +1,5 @@
 # Studiewijzer Analyseproject<br><small>eerstejaars</small>
 
-<mark>Alles aan deze studiewijzer kan nog aangepast worden. De up-to-date versie komt op de cursuswebsite.</mark>
-
 **Periode**: maandag 6 januari 2025 -- donderdag 30 januari 2025  
 **Eindpresentaties**: donderdag 30 januari 2025
 
@@ -314,26 +312,21 @@ De laatste week van het vak is iets korter en staat helemaal in het teken van af
         - Expliciet een rondje doen: ieders gedachten over poster
         - Laatste kans grote aanpassingen
         - Reflectie: doel bereikt dat in week 1 gesteld werd?
+    - **Poster** (uiterlijk 17:00)
+        - Definitieve poster insturen <mark>vóór 17:00 uur</mark>
 
 - **Woensdag 29 januari**
-    - **Activiteit** (11-13 uur)
-        - Formele peer review posters (rubric wordt aangeleverd)
-    - **Posterprint** (uiterlijk 12:30)
-        - Definitieve poster met docent aanvragen <mark>vóór 12:30 uur</mark>
     - **Inleveren** (uiterlijk 15:00 uur)
-        - Verslag en notebook, via website
+        - Verslag en eventuele notebook, via website
 
 - **Donderdag 30 januari**
-    - **Posters ophalen en ophangen** (9-10 uur)
-        - Afhalen bij cafe-restaurant Polder
-        - Ophalen in lokaal/hal (aan te geven door docent)
-    - **Eindpresentaties** (10-13 uur)
+    - **Eindpresentaties** (9-13 uur)
         - Pitch geven bij de poster en vragen van publiek beantwoorden
         - Docenten bezoeken ook de poster, stellen vragen en vormen eindoordeel
 
 #### Deadlines en inlevermomenten
 
-- **Definitieve poster**: woensdag 29 januari, 12:30 uur
+- **Definitieve poster**: dinsdag 29 januari, 17:00 uur
 - **Definitief verslag**: woensdag 29 januari, 15:00 uur
 
 #### Begeleiding
