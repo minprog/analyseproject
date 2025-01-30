@@ -58,6 +58,5 @@ ingeleverd:
 
 project:
     show_progress: true
-    type: points
     submits:
         project: 1
