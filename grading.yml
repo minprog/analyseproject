@@ -38,8 +38,8 @@ grades:
 
 calculation:
     eindcijfer:
-        opdrachten: 3
-        project: 6
+        opdrachten: 23
+        project: 77
 
 opdrachten:
     show_progress: true
