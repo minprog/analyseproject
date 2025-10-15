@@ -1,0 +1,4 @@
+name: keuze
+files:
+    required:
+        - milestone1.ipynb

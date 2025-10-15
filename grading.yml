@@ -1,13 +1,14 @@
+_settings:
+    start_date: 5/1/26
+    end_date: 30/1/26
+
 templates:
-    1: &automatisch
+    1: &aftekenen
         type: pass
         subgrades:
             akkoord: boolean
-        automatic:
-            akkoord: -(correctness_score.floor)
         calculation: akkoord
-        auto_publish: true
-        hide_calculated: true
+        hide_subgrades: true
     2: &cijfer
         type: float
         subgrades:
@@ -15,48 +16,43 @@ templates:
         calculation: cijfer
         hide_calculated: true
         is_test: true
-    3: &aftekenen
-        type: pass
-        subgrades:
-            akkoord: boolean
-        calculation: akkoord
-        hide_subgrades: true
 
 grades:
-    movies: *automatisch
-    fiftyville: *automatisch
-
     pandas:
         <<: *aftekenen
-        deadline: 13/01/25 11:00
-    sql: *aftekenen
-    pup:
+        deadline: 09/01/26 14:00
+    keuze:
         <<: *aftekenen
-        deadline: 27/01/25 11:00
-    
+        deadline: 09/01/26 14:00
+    beschrijving:
+        <<: *aftekenen
+        deadline: 16/01/26 14:00
+    inzicht:
+        <<: *aftekenen
+        deadline: 23/01/26 14:00
+    notebook:
+        <<: *aftekenen
+        deadline: 27/01/26 17:00
+    poster:
+        <<: *aftekenen
+        deadline: 28/01/26 14:00
     project: *cijfer
 
 calculation:
     eindcijfer:
-        opdrachten: 23
-        project: 77
+        project: 1
 
-opdrachten:
+milestones:
     show_progress: true
-    type: points
     submits:
         pandas: 1
-        sql: 1
-        pup: 1
+        keuze: 1
+        beschrijving: 1
+        inzicht: 1
+        notebook: 1
+        poster: 1
 
-ingeleverd:
-    show_overview: true
-    deadline: 20/01/25 11:00
-    submits:
-        movies: 1
-        fiftyville: 1
-
-project:
+projectcijfer:
     show_progress: true
     submits:
         project: 1

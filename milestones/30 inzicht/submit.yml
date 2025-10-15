@@ -1,0 +1,4 @@
+name: inzicht
+files:
+    required:
+        - milestone3.ipynb

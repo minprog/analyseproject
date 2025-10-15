@@ -1,7 +1,0 @@
-name: eindverslag
-files:
-    required:
-        - verslag.pdf
-    optional:
-        - notebook.ipynb
-        - raw_data.csv
