@@ -40,7 +40,7 @@ grades:
 
 calculation:
     eindcijfer:
-        project: 1
+        projectcijfer: 1
 
 milestones:
     show_progress: true
