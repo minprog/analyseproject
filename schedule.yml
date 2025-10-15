@@ -2,14 +2,14 @@ Milestones:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
 
     Pandas:
-        Opdracht Pandas [9 jan 14:00]: /pandas
+        '[icon:table] Opdracht Pandas [9 jan 14:00]': /pandas
 
     Project:
-        Keuze onderwerp [9 jan 14:00]: /milestones/keuze
-        Beschrijving data [16 jan 14:00]: /milestones/beschrijving
-        Inzicht met meer data [23 jan 14:00]: /milestones/inzicht
+        '[icon:1-circle] Keuze onderwerp [9 jan 14:00]': /milestones/keuze
+        '[icon:2-circle] Beschrijving data [16 jan 14:00]': /milestones/beschrijving
+        '[icon:3-circle] Inzicht met meer data [23 jan 14:00]': /milestones/inzicht
 
     Afronding:
-        Notebook [27 jan 17:00]: /milestones/notebook
-        Poster [28 jan 14:00]: /milestones/poster
-        Eindpresentatie [30 jan]: /milestones/eindpresentatie
+        '[icon:journal-code] Notebook [27 jan 17:00]': /milestones/notebook
+        '[icon:file-richtext] Poster [28 jan 14:00]': /milestones/poster
+        '[icon:person-vcard] Eindpresentatie [30 jan]': /milestones/eindpresentatie
