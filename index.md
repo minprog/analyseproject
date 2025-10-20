@@ -1,6 +1,6 @@
 # Studiewijzer Analyseproject
 
-**Periode**: maandag 5 januari 2025 -- vrijdag 30 januari 2025
+**Periode**: maandag 5 januari 2025 -- vrijdag 30 januari 2025  
 **Eindpresentaties**: vrijdag 30 januari 2025
 
 ---
