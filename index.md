@@ -98,7 +98,7 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 
 ---
 
-### Week 2: Databeschrijving en SQL
+### Week 2: Databeschrijving
 
 Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde notebook en statistische beschrijving/visualisaties.
 
@@ -106,28 +106,22 @@ Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde noteboo
     - **Deadline Pandas**: vóór het werkcollege inleveren, ook als mislukt
     - **Werken aan project**:
         - Inladen in Pandas, analyseren en beschrijven van datakwaliteit en datadistributies
-    - **Werken aan opdracht**:
-        - Start opdracht SQL (videocollege niet in les kijken)
 
 - **Woensdag 15 januari** (11-15 uur):
     - **Projectvoortgang**: Rondje individuele feedback op data-inzichten en notebook
-    - **Werken aan opdracht**: Werken aan oefenopdracht Pandas, met assistentie
 
 - **Vrijdag 17 januari**:
     - **Voortgangsbespreking**: Presenteren van datasetbeschrijvingen en eerste analyses.
 
 #### Deadlines en inlevermomenten
 
-- **Aftekenen SQL**: tijdens werkcollege woensdag aftekenen Movies
 - **Projectnotebook (tweede milestone)**: donderdag 16 januari, 15:00 uur
-- **Oefenopdracht SQL**: maandag 20 januari, 11:00 uur
 
 #### Begeleiding
 
 Docenten houden het volgende bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
 
 - Voortgang project op maandag
-- Voortgang SQL-opdracht op woensdag
 - Welke vragen gesteld, hulp gevraagd
 - Voortgang project op vrijdag
 - Hoe project is aangepast op basis van inzicht
@@ -142,30 +136,23 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verfijnde stats en visualisaties.
 
 - **Maandag 20 januari** (11-13 uur)
-    - **Deadline SQL**: vóór het werkcollege inleveren, ook als mislukt
     - **Project**: Visualisaties maken en beantwoorden van de onderzoeksvraag
-    - **Dataverwerking**:
-        - Start opdracht Web Scraping
 
 - **Woensdag 22 januari** (11-15 uur):
     - **Project**: Feedback op visualisaties
-    - **Opdracht**: Werken aan oefenopdracht Web Scraping, met assistentie
 
 - **Vrijdag 24 januari**:
     - **Voortgangsbespreking**: Bespreken van analyses en conclusies. Wat kan er volgende week gepresenteerd worden?
 
 #### Deadlines en inlevermomenten
 
-- **Aftekenen Web Scraping**: tijdens werkcollege woensdag aftekenen (nader te bepalen tot waar)
 - **Projectnotebook (derde milestone)**: donderdag 23 januari, 15:00 uur
-- **Oefenopdracht Web Scraping**: maandag 27 januari, 11:00 uur
 
 #### Begeleiding
 
 Docenten houden het volgende bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
 
 - Voortgang project op maandag
-- Voortgang Web Scraping-opdracht op woensdag
 - Welke vragen gesteld, hulp gevraagd
 - Voortgang project op vrijdag
 - Hoe project is aangepast op basis van inzicht
@@ -180,7 +167,6 @@ Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met all
 Milestone project op *woensdag*: een mooie nette notebook, een poster, en een pitch over je project
 
 - **Maandag 27 januari** (11-13 uur)
-    - **Deadline Scraping**: vóór het werkcollege inleveren, ook als mislukt
     - **Project**: Instructie over posters maken
     - **Activiteit**: Eerste schetsen van de poster en de kernboodschap, peer feedback
 
@@ -207,7 +193,6 @@ Milestone project op *woensdag*: een mooie nette notebook, een poster, en een pi
 Docenten houden het volgende bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
 
 - Voortgang project op maandag
-- Voortgang Web Scraping-opdracht op woensdag
 - Welke vragen gesteld, hulp gevraagd
 - Hoe project is aangepast op basis van inzicht
 
