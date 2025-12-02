@@ -1,7 +1,8 @@
 Milestones:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
 
-    Pandas:
+    Basis:
+        '[icon:bar-chart-line] Dr. Stat [9 jan 14:00]': /statistiek
         '[icon:table] Opdracht Pandas [9 jan 14:00]': /pandas
 
     Project:
