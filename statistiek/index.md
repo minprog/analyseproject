@@ -6,6 +6,8 @@ Statistiek is typisch zo'n onderwerp waar je **de taal leert** spreken. Er zijn 
 
 Na het volgen van de cursus van Dr. Stat verwachten we dat je deze technieken en termen ook op de juiste manier toepast in je project. De precisie waarmee je je uitdrukt is een factor in de beoordeling. Neem dus rustig de tijd om de statistiek tot je te nemen.
 
+## Oefenen
+
 [Ga naar de site van Dr. Stat](https://drstat.net/nl/modules) en doe de volgende lessen:
 
 - Meten en schalen
@@ -17,3 +19,11 @@ Na het volgen van de cursus van Dr. Stat verwachten we dat je deze technieken en
 - Correlatie
 
 Toets jezelf met de oefeningen.
+
+## Toetsje 1: meten, tabellen, centrummaten en spreidingsmaten
+
+Hier krijg je vragen waarbij een antwoord moet geven én uitleg daarbij. Als je het voldoende uitlegt dan haal je dit toetsje. Om het vak te halen moet je het toetsje gehaald hebben. Als het nodig is krijg je een tweede kans.
+
+## Toetsje 2: scheefheid, transformaties en correlatie
+
+Hier krijg je vragen waarbij een antwoord moet geven én uitleg daarbij. Als je het voldoende uitlegt dan haal je dit toetsje. Om het vak te halen moet je het toetsje gehaald hebben. Als het nodig is krijg je een tweede kans.
