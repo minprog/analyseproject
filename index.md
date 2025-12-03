@@ -33,17 +33,63 @@ Daarnaast kunnen docenten en assistenten tijdens alle geroosterde werkgroepen he
 
 ## Beoordeling
 
-Het project vormt de basis van het vak. De beoordeling geschiedt door docenten, naar ervaring en gezamenlijk inzicht, op basis van de volgende rubric. Er kunnen eventueel ook halve punten worden gegeven. Een voldoende voor het project is vereist om een voldoende te halen voor het vak.
+Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Zie de lijstjes hieronder. Daarnaast kun je op allerlei manieren "groeipunten" verdienen.
 
-- **Project zeer goed (cijfer 7)**: Uitstekend eindproduct. Naar inzicht van de docenten kan een voldoende project een hoger oordeel krijgen als er bijzonder sterke inzichten in de data zijn ontwikkeld en deze op sterke manier worden gepresenteerd en verdedigd. Het moet duidelijk zijn dat er een passende uitdaging is opgezocht en succesvol uitgevoerd.
+### 1. Statistiek
 
-- **Project voldoende (cijfer 6)**: Eindproduct voldoet ruimschoots aan de eisen. Dit betekent dat er aantoonbaar inzicht is in de dataset, een uitgebreide analyse is gedaan, in iteraties is gewerkt, feedback van medestudenten en docenten meegenomen, een procesboek bijgehouden, een poster gemaakt die gebaseerd is op al het werk, enzovoort.
+Voor een voldoende
 
-- **Project onvoldoende (cijfer NAV)**: Eindproduct is niet op niveau, en het vak kan dan ook niet gehaald worden. Dit zal over het algemeen al vroegtijdig duidelijk zijn door achterlopen en het niet uitvoeren van instructies. Het is niet mogelijk met uitstel alsnog een voldoende te krijgen, maar achterstand is soms wel in te halen vóór de deadline. Vraag tijdig om advies indien nodig.
+- toetsjes overtuigend gehaald
+- correcte toepassing in het project
 
-Daarnaast kun je punten verdienen door te oefenen met technieken voor dataverwerking.
+Groeipunten (tot 1 punt erbij)
 
-- **Technieken (1--3 erbij)**: Voor het succesvol afronden van technische opdrachten (Pandas, SQL, Scraping) kun je een punt extra op je eindcijfer halen. Je moet tijdens het maken en naderhand aantonen dat je door de oefening de techniek op een ruim voldoende niveau beheerst.
+- je laat statistische nuance zien in projectverslag en -uitleg (redeneren, mitsen en maren)
+- visualisaties ondersteunen in project en poster de uitleg, en andersom
+
+### 2. Pandas
+
+Voor een voldoende
+
+- opdrachten allemaal af en toetsje overtuigend gehaald
+- kunnen uitleggen van de eigen Pandas-code van project
+
+Groeipunten (tot 1 punt erbij)
+
+- goed leesbare en overzichtelijke code in project
+- geavanceerde Pandas-transformaties toegepast
+
+### 3. Project
+
+Voor een voldoende
+
+- duidelijke en zinvolle onderzoeksvraag
+- passende datasets
+- goede uitleg van beperkingen dataset in verslag
+- statistische analyse
+- notebook is reproduceerbaar
+- poster is begrijpelijk
+
+Groeipunten (tot 1 punt erbij)
+
+- vernieuwende of elegante onderzoeksvraag en -aanpak
+- originele inzichtelijke visualisaties
+- aantoonbaar iteratief gewerkt
+- verdiept statistisch redeneren in uitwerking
+
+### 4. Proces
+
+Voor een voldoende
+
+- procesboek compleet en geloofwaardig
+- twee feedbackrondes benut en aantoonbaar verwerkt
+- consequente deelname aan activiteiten
+
+Groeipunten (tot 0,5 punt erbij)
+
+- expliciet uitgewerkte procesverslag met uitleg van iteratief werken
+- peer feedback gegeven op hoog niveau
+- sterke reflecties in het verslag
 
 Zoals je ziet ligt er een hoop verantwoordelijkheid bij jou om vorm te geven aan je werk in het vak. Als je redelijkerwijs de instructies volgt kom je wel een heel eind, maar zorg echt zelf dat je je leren zichtbaar maakt.
 
