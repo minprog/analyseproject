@@ -33,7 +33,7 @@ Daarnaast kunnen docenten en assistenten tijdens alle geroosterde werkgroepen he
 
 ## Beoordeling
 
-Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Zie de lijstjes hieronder. Daarnaast kun je op allerlei manieren "groeipunten" verdienen.
+Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Zie de lijstjes hieronder. Daarnaast kun je op allerlei manieren "groeipunten" verdienen. In totaal kunt je dan een 9,5 halen. Met een heel bijzonder coherent project op alle fronten kan dit, naar inzicht van het docententeam, een 10 worden.
 
 ### 1. Statistiek
 
