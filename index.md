@@ -7,28 +7,29 @@
 
 Studenten doen een **individueel project** waarin zij een **dataset analyseren**, een **notebook** maken en een **poster** om inzichten te presenteren en te verdedigen. Doelen zijn:
 
-- een goed begrip krijgen van de basis van statistiek
+- een goed begrip krijgen van de taal van statistiek
 - ervaring opdoen met het uitvoeren een data-analyseproject
 - inzicht krijgen in kwaliteit van datasets
-- ideeën vormen over vragen die middels een dataset beantwoord kunnen worden
-- praktische ervaring opdoen met Pandas
+- vragen leren bedenken die middels een dataset beantwoord kunnen worden
+- praktische ervaring opdoen met het beantwoorden van vragen met hulp van Pandas
+
+## Aanwezigheid
+
+Tijdens vrijwel elk college is er een toetsje, feedback, of een voortgangsbespreking. Je wordt dus bij alle colleges verwacht. Als je een keer ziek bent dan moet het lukken hiervoor een regeling te treffen. Je moet dan wel een mail sturen.
 
 ## Begeleiding
 
-Over het algemeen zul je één aanspreekpunt hebben voor je project. Als je grote beslissingen neemt moet je die met de aangewezen begeleider bespreken. Tijdens colleges op maandag en woensdag is assistentie mogelijk met opdrachten en technische aspecten van het project. Op vrijdagen zijn er voortgangsbesprekingen met een groepje medestudenten, waar iedereen de eigen voortgang presenteert en samenwerking wordt opgezocht om verder te komen.
+Over het algemeen zul je één aanspreekpunt hebben voor je project. Als je grote beslissingen neemt moet je die met de aangewezen begeleider bespreken. Die begeleider houdt een aantal zaken over jou bij tijdens het vak, zodat dit meegenomen kan worden in de beoordeling. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
 
-Docenten houden het volgende bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
-
-- Keuze dataset individuele studenten
-- Voortgang Pandas-opdracht op woensdag
-
-- Voortgang project op maandag
+- Voortgang met statistiek en Pandas
+- Keuze dataset voor het project
+- Voortgang project op elke maandag
 - Welke vragen gesteld, hulp gevraagd
-- Voortgang project op vrijdag
+- Voortgang project op tijdens de bespreking op vrijdag
 - Hoe project is aangepast op basis van inzicht
 - Inschatting next steps en potentiële problemen
 
-Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met alle opdrachten en vragen.
+Daarnaast kunnen docenten en assistenten tijdens alle geroosterde werkgroepen helpen met alle opdrachten en vragen.
 
 ## Beoordeling
 
