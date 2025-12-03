@@ -15,7 +15,7 @@ Studenten doen een **individueel project** waarin zij een **dataset analyseren**
 
 ## Aanwezigheid
 
-Tijdens vrijwel elk college is er een toetsje, feedback, of een voortgangsbespreking. Je wordt dus bij alle colleges verwacht. Als je een keer ziek bent dan moet het lukken hiervoor een regeling te treffen. Je moet dan wel een mail sturen.
+Tijdens vrijwel elk college is er een toetsje, feedback, of een voortgangsbespreking. Bijna alles is dus verplicht, en bij de paar andere colleges zonder speciale activiteit word je ook gewoon verwacht. Als je een keer ziek bent dan moet het lukken hiervoor een regeling te treffen. Je moet dan wel een mail sturen.
 
 ## Begeleiding
 
