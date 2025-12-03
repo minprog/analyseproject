@@ -1,26 +1,36 @@
 # Studiewijzer Analyseproject
 
 **Periode**: maandag 5 januari 2025 -- vrijdag 30 januari 2025  
-**Eindpresentaties**: vrijdag 30 januari 2025
-
----
+**Eindpresentaties**: vrijdag 30 januari 2025 hele dag
 
 ## Algemene informatie
 
 Studenten doen een **individueel project** waarin zij een **dataset analyseren**, een **notebook** maken en een **poster** om inzichten te presenteren en te verdedigen. Doelen zijn:
 
-- ervaring opdoen met een datagedreven project
+- een goed begrip krijgen van de basis van statistiek
+- ervaring opdoen met het uitvoeren een data-analyseproject
 - inzicht krijgen in kwaliteit van datasets
-- ideeën vormen over vragen die met een dataset beantwoord kunnen worden
+- ideeën vormen over vragen die middels een dataset beantwoord kunnen worden
 - praktische ervaring opdoen met Pandas
 
-Daarnaast verdiepen studenten hun technische vaardigheden door middel van oefenopdrachten met **Pandas**.
-
-### Begeleiding
+## Begeleiding
 
 Over het algemeen zul je één aanspreekpunt hebben voor je project. Als je grote beslissingen neemt moet je die met de aangewezen begeleider bespreken. Tijdens colleges op maandag en woensdag is assistentie mogelijk met opdrachten en technische aspecten van het project. Op vrijdagen zijn er voortgangsbesprekingen met een groepje medestudenten, waar iedereen de eigen voortgang presenteert en samenwerking wordt opgezocht om verder te komen.
 
-### Beoordeling
+Docenten houden het volgende bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
+
+- Keuze dataset individuele studenten
+- Voortgang Pandas-opdracht op woensdag
+
+- Voortgang project op maandag
+- Welke vragen gesteld, hulp gevraagd
+- Voortgang project op vrijdag
+- Hoe project is aangepast op basis van inzicht
+- Inschatting next steps en potentiële problemen
+
+Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met alle opdrachten en vragen.
+
+## Beoordeling
 
 Het project vormt de basis van het vak. De beoordeling geschiedt door docenten, naar ervaring en gezamenlijk inzicht, op basis van de volgende rubric. Er kunnen eventueel ook halve punten worden gegeven. Een voldoende voor het project is vereist om een voldoende te halen voor het vak.
 
@@ -40,28 +50,39 @@ Zoals je ziet ligt er een hoop verantwoordelijkheid bij jou om vorm te geven aan
 
 In het procesboek moet elke student per uur aangeven waar aan is gewerkt. Ook moeten beslissingen over de inrichting van het project worden beschreven. Het procesboek wordt gebruikt in de beoordeling.
 
----
-
 ## Weekoverzicht
 
-Bijeenkomsten hieronder zijn verplicht.
+Bijeenkomsten hieronder zijn verplicht. Alle bijeenkomsten behalve vrijdag zijn in lokaal L0.10.
 
-### Week 1: Datasetselectie en Pandas
+### Week 1: Datasetselectie en statistiek
 
-Milestone project op vrijdag: dataset presenteren en kwaliteit beschrijven.
+| Dag       | Activiteit                                  | Locatie |
+| --------- | ------------------------------------------- | ------- |
+| Maandag   | Kick-off + werkcollege                      | L0.10   |
+| Dinsdag   | Huiswerk (statistiek)                       | thuis   |
+| Woensdag  | Toetsje statistiek 1 + start Project        | L0.10   |
+| Donderdag | Huiswerk (statistiek)                       | thuis   |
+| Vrijdag   | Toetsje statistiek 2 + voortgangsbespreking | Lab42   |
 
-- **Maandag 6 januari** (11-13 uur)
-    - **Kick-off technieken**:
+- **Maandag**
+    - 11:00 Kick-off project: wat ga je doen en hoe werkt statistiek
+    - 13:00 Werkcollege statistiek: oefeningen en starten met cursus
+
+- **Dinsdag**
+    - Huiswerk! Statistiek t/m spreidingsmaten, dus les 1 t/m 4
+
+- **Woensdag**
+    - 10:00 Kick-off technieken
         - Uitleg tools: Notebooks en Pandas
         - Installatie-check
+    - 10:30 <mark>Toetsje</mark> Statistiek deel 1
+        - Over: meten en schalen, tabellen, centrummaten en spreidingsmaten
+    - 10:45 Werken aan opdracht
         - Start opdracht Pandas
-    - Geen hoorcollege (dat is voor de eerstejaars)
-
-- **Woensdag 8 januari** (11-15 uur)
-    - **Werken aan opdracht** (vanaf 11 uur):
         - Werken aan oefenopdracht Pandas, met assistentie
         - Let op <mark>tussendeadline</mark>, zie onder
-    - **Project** (vanaf 13 uur):
+
+    - Project (vanaf 13 uur): (!!!)
         - Gesprek: Wat is een goede dataset?
         - Enkele voorbeelden datasets laten zien
         - Instructie dataset zoeken
@@ -69,136 +90,104 @@ Milestone project op vrijdag: dataset presenteren en kwaliteit beschrijven.
         - Karakteristieken in kaart brengen
         - Ondersteuning bij datasetselectie en onderzoeksvraag
 
-- **Vrijdag 10 januari** (tijd krijg je van docent)
-    - **Voortgangsbespreking**:
-        - Duur ongeveer 2 uur
-        - 4-6 studenten per groep
+- **Donderdag**
+    - Huiswerk! Statistiek t/m correlatie, dus les 5, 6 en 7
+    - Notebook deadline???
+
+- **Vrijdag**
+    - Verplichte voortgangsbespreking: groep van 5, duurt ongeveer 1 uur
         - Presenteren van dataset en karakteristieken
         - Feedback van medestudenten en van docent, next steps
-
-#### Deadlines en inlevermomenten
-
-- **Aftekenen Pandas**: tijdens werkcollege woensdag aftekenen t/m vraag 9
-- **Projectnotebook (eerste milestone)**: donderdag 9 januari, 15:00 uur
-- **Oefenopdracht Pandas**: maandag 13 januari, 11:00 uur
-
-#### Begeleiding
-
-Jouw projectbegeleider zie je woensdag bij de kick-off. Daarna leidt deze begeleider in ieder geval de voortgangsbespreking op vrijdag, met andere studenten erbij.
-
-Alle docenten houden het volgende voor je bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
-
-- Keuze dataset individuele studenten
-- Voortgang Pandas-opdracht op woensdag
-- Welke vragen gesteld, hulp gevraagd
-- Voortgang project op vrijdag
-- Inschatting next steps en potentiële problemen
-
-Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met alle opdrachten en vragen.
-
----
+    - 13:00 <mark>Toetsje</mark> statistiek deel 2
+        - Over: scheefheid, transformaties en correlatie
+    - 13:30 Vragenuur statistiek
+        - Kom langs in L0.10 als je er nog niet uitkomt
+        - Maandag is de tweede toets en we gaan door!
 
 ### Week 2: Databeschrijving
 
+| Dag       | Activiteit                             | Locatie |
+| --------- | -------------------------------------- | ------- |
+| Maandag   | Intro Pandas                           | L0.10   |
+| Dinsdag   | Huiswerk (Pandas)                      | thuis   |
+| Woensdag  | Toetsje Pandas + feedbackronde project | L0.10   |
+| Donderdag | Huiswerk (project)                     | thuis   |
+| Vrijdag   | Voortgangsbespreking                   | Lab42   |
+
 Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde notebook en statistische beschrijving/visualisaties.
 
-- **Maandag 13 januari** (11-13 uur)
-    - **Deadline Pandas**: vóór het werkcollege inleveren, ook als mislukt
-    - **Werken aan project**:
-        - Inladen in Pandas, analyseren en beschrijven van datakwaliteit en datadistributies
+- **Maandag**
+    - 13:00 Terugblik week 1
+    - 13:15 Toetsje Statistiek deel 1
+    - 13:30 Introductie Pandas
+    - Werken aan de Pandas-opdracht
 
-- **Woensdag 15 januari** (11-15 uur):
-    - **Projectvoortgang**: Rondje individuele feedback op data-inzichten en notebook
+- **Dinsdag**
+    - Thuis werken aan Pandas-opdracht
 
-- **Vrijdag 17 januari**:
-    - **Voortgangsbespreking**: Presenteren van datasetbeschrijvingen en eerste analyses.
+- **Woensdag**
+    - 10:00 Rondje individuele feedback op data-inzichten en notebook
+    - 11:00 Opzet project in notebook
+    - 17:00 Deadline Pandas-oefenopdrachten inleveren
 
-#### Deadlines en inlevermomenten
+- **Donderdag**
+    - Thuis werken aan project
+    - Inladen in Pandas, analyseren en beschrijven van datakwaliteit en datadistributies
+    - 17:00 Deadline inleveren project-notebook
 
-- **Projectnotebook (tweede milestone)**: donderdag 16 januari, 15:00 uur
-
-#### Begeleiding
-
-Docenten houden het volgende bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
-
-- Voortgang project op maandag
-- Welke vragen gesteld, hulp gevraagd
-- Voortgang project op vrijdag
-- Hoe project is aangepast op basis van inzicht
-- Inschatting next steps en potentiële problemen
-
-Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met alle opdrachten en vragen.
-
----
+- **Vrijdag**:
+    - Voortgangsbespreking: presenteren van datasetbeschrijvingen en eerste analyses.
 
 ### Week 3: Onderzoeksvraag en Web Scraping
 
+| Dag       | Activiteit                               | Locatie |
+| --------- | ---------------------------------------- | ------- |
+| Maandag   | Instructie visualisaties                 | L0.10   |
+| Dinsdag   | Huiswerk (project)                       | thuis   |
+| Woensdag  | Werken aan visualisaties + feedbackronde | L0.10   |
+| Donderdag | Huiswerk (project)                       | thuis   |
+| Vrijdag   | Voortgangsbespreking                     | Lab42   |
+
 Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verfijnde stats en visualisaties.
 
-- **Maandag 20 januari** (11-13 uur)
-    - **Project**: Visualisaties maken en beantwoorden van de onderzoeksvraag
+- **Maandag**
+    - 13:00 Instructie visualisaties
+    - Visualisaties maken en beantwoorden van de onderzoeksvraag
 
-- **Woensdag 22 januari** (11-15 uur):
-    - **Project**: Feedback op visualisaties
+- **Woensdag**
+    - 10:00 Feedbackronde visualisaties
+    - ...
 
-- **Vrijdag 24 januari**:
-    - **Voortgangsbespreking**: Bespreken van analyses en conclusies. Wat kan er volgende week gepresenteerd worden?
-
-#### Deadlines en inlevermomenten
-
-- **Projectnotebook (derde milestone)**: donderdag 23 januari, 15:00 uur
-
-#### Begeleiding
-
-Docenten houden het volgende bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
-
-- Voortgang project op maandag
-- Welke vragen gesteld, hulp gevraagd
-- Voortgang project op vrijdag
-- Hoe project is aangepast op basis van inzicht
-- Inschatting next steps en potentiële problemen
-
-Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met alle opdrachten en vragen.
-
----
+- **Vrijdag**:
+    - Voortgangsbespreking: bespreken van analyses en conclusies. Wat kan er volgende week gepresenteerd worden?
 
 ### Week 4: Posters en presentaties
 
-Milestone project op *woensdag*: een mooie nette notebook, een poster, en een pitch over je project
+| Dag       | Activiteit               | Locatie |
+| --------- | ------------------------ | ------- |
+| Maandag   | Instructie posters maken | L0.10   |
+| Dinsdag   | Deadline poster (17:00)  | thuis   |
+| Woensdag  | Deadline verslag (17:00) | L0.10   |
+| Donderdag | Huiswerk (project)       | thuis   |
+| Vrijdag   | Voortgangsbespreking     | Lab42   |
 
-- **Maandag 27 januari** (11-13 uur)
-    - **Project**: Instructie over posters maken
-    - **Activiteit**: Eerste schetsen van de poster en de kernboodschap, peer feedback
+- **Maandag**
+    - 13:00 Instructie posters maken
+    - 13:30 Werken aan posters, eerste schetsen, peer feedback
 
-- **Dinsdag 28 januari**
-    - **Poster** (uiterlijk 17:00)
-        - Definitieve poster insturen
+- **Dinsdag**
+    - Thuis werken aan de poster
+    - 17:00 **Deadline** poster drukklaar
 
-- **Woensdag 29 januari**
-    - **Inleveren** (uiterlijk 15:00 uur)
-        - Verslag en eventuele notebook, via website
+- **Woensdag**
+    - 10:00 Werken aan Pandas notebook-verslag, laatste feedback
+    - 15:00 **Deadline** verslag
 
-- **Donderdag 30 januari**
-    - **Eindpresentaties** (11-13 uur)
-        - Pitch geven bij de poster en vragen van publiek beantwoorden
-        - Docenten bezoeken ook de poster, stellen vragen en vormen eindoordeel
-
-#### Deadlines en inlevermomenten
-
-- **Definitieve poster**: woensdag 29 januari, 12:30 uur
-- **Definitieve notebook**: woensdag 29 januari, 15:00 uur
-
-#### Begeleiding
-
-Docenten houden het volgende bij. Zorg dat je je docenten ook zelf benadert zodat dit gebeurt. De notities worden niet met je gedeeld maar voel je vrij de onderwerpen met je begeleider te bespreken.
-
-- Voortgang project op maandag
-- Welke vragen gesteld, hulp gevraagd
-- Hoe project is aangepast op basis van inzicht
-
-Daarnaast kunnen docenten en assistenten tijdens alle werkgroepen helpen met alle opdrachten en vragen.
-
----
+- **Vrijdag**
+    - 10:00 Eindpresentaties, vragen van docenten beantwoorden
+    - 12:00 Lunch
+    - 13:00 Eindpresentaties, vragen van docenten beantwoorden
+    - 15:00 Kick-out
 
 ## Contact en uitzonderingen
 
