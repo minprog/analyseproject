@@ -41,7 +41,7 @@ Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Z
 
 ### 1. Statistiek
 
-Voor een voldoende
+Voor een voldoende eindcijfer
 
 - toetsjes overtuigend gehaald
 - correcte toepassing van statistische analyses in het project
@@ -53,7 +53,7 @@ Groeipunten (tot 1 punt erbij)
 
 ### 2. Pandas
 
-Voor een voldoende
+Voor een voldoende eindcijfer
 
 - opdrachten allemaal af en toetsje overtuigend gehaald
 - kunnen uitleggen van de eigen Pandas-code van project
@@ -65,7 +65,7 @@ Groeipunten (tot 1 punt erbij)
 
 ### 3. Project
 
-Voor een voldoende
+Voor een voldoende eindcijfer
 
 - duidelijke en zinvolle onderzoeksvraag
 - passende datasets
@@ -83,7 +83,7 @@ Groeipunten (tot 1 punt erbij)
 
 ### 4. Proces
 
-Voor een voldoende
+Voor een voldoende eindcijfer
 
 - procesboek compleet en geloofwaardig
 - twee feedbackrondes benut en aantoonbaar verwerkt
