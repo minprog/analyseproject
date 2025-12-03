@@ -35,12 +35,16 @@ Daarnaast kunnen docenten en assistenten tijdens alle geroosterde werkgroepen he
 
 Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Zie de lijstjes hieronder. Daarnaast kun je op allerlei manieren "groeipunten" verdienen. In totaal kunt je dan een 9,5 halen. Met een heel bijzonder coherent project op alle fronten kan dit, naar inzicht van het docententeam, een 10 worden.
 
+## Procesboek
+
+In een "procesboek" moet elke student dagelijks per uur aangeven waar aan is gewerkt. Ook moeten beslissingen over de inrichting van het project worden beschreven. Het procesboek wordt gebruikt in de beoordeling en kan als bron dienen voor het verslag.
+
 ### 1. Statistiek
 
 Voor een voldoende
 
 - toetsjes overtuigend gehaald
-- correcte toepassing in het project
+- correcte toepassing van statistische analyses in het project
 
 Groeipunten (tot 1 punt erbij)
 
@@ -66,7 +70,7 @@ Voor een voldoende
 - duidelijke en zinvolle onderzoeksvraag
 - passende datasets
 - goede uitleg van beperkingen dataset in verslag
-- statistische analyse
+- nette statistische analyse
 - notebook is reproduceerbaar
 - poster is begrijpelijk
 
@@ -92,10 +96,6 @@ Groeipunten (tot 0,5 punt erbij)
 - sterke reflecties in het verslag
 
 Zoals je ziet ligt er een hoop verantwoordelijkheid bij jou om vorm te geven aan je werk in het vak. Als je redelijkerwijs de instructies volgt kom je wel een heel eind, maar zorg echt zelf dat je je leren zichtbaar maakt.
-
-### Procesboek
-
-In het procesboek moet elke student per uur aangeven waar aan is gewerkt. Ook moeten beslissingen over de inrichting van het project worden beschreven. Het procesboek wordt gebruikt in de beoordeling.
 
 ## Weekoverzicht
 
