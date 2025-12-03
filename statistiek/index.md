@@ -20,10 +20,14 @@ Na het volgen van de cursus van Dr. Stat verwachten we dat je deze technieken en
 
 Toets jezelf met de oefeningen.
 
-## Toetsje 1: meten, tabellen, centrummaten en spreidingsmaten
+## Toetsje 1
+
+Onderwerp: meten, tabellen, centrummaten en spreidingsmaten
 
 Hier krijg je vragen waarbij een antwoord moet geven én uitleg daarbij. Als je het voldoende uitlegt dan haal je dit toetsje. Om het vak te halen moet je het toetsje gehaald hebben. Als het nodig is krijg je een tweede kans.
 
-## Toetsje 2: scheefheid, transformaties en correlatie
+## Toetsje 2
+
+Onderwerp: scheefheid, transformaties en correlatie
 
 Hier krijg je vragen waarbij een antwoord moet geven én uitleg daarbij. Als je het voldoende uitlegt dan haal je dit toetsje. Om het vak te halen moet je het toetsje gehaald hebben. Als het nodig is krijg je een tweede kans.
