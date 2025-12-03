@@ -31,13 +31,13 @@ Over het algemeen zul je één aanspreekpunt hebben voor je project. Als je grot
 
 Daarnaast kunnen docenten en assistenten tijdens alle geroosterde werkgroepen helpen met alle opdrachten en vragen.
 
-## Beoordeling
-
-Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Zie de lijstjes hieronder. Daarnaast kun je op allerlei manieren "groeipunten" verdienen. In totaal kunt je dan een 9,5 halen. Met een heel bijzonder coherent project op alle fronten kan dit, naar inzicht van het docententeam, een 10 worden.
-
 ## Procesboek
 
 In een "procesboek" moet elke student dagelijks per uur aangeven waar aan is gewerkt. Ook moeten beslissingen over de inrichting van het project worden beschreven. Het procesboek wordt gebruikt in de beoordeling en kan als bron dienen voor het verslag.
+
+## Beoordeling
+
+Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Zie de lijstjes hieronder. Daarnaast kun je op allerlei manieren "groeipunten" verdienen. In totaal kunt je dan een 9,5 halen. Met een heel bijzonder coherent project op alle fronten kan dit, naar inzicht van het docententeam, een 10 worden.
 
 ### 1. Statistiek
 
