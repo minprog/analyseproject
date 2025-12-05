@@ -4,16 +4,16 @@ Welkom:
 Milestones:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
 
-    Basis:
+    Basis (week 1-2):
         '[icon:bar-chart-line] Statistiek met Dr. Stat [Toetsjes]': /statistiek
         '[icon:table] Zelf oefenen met Pandas [Oefenen]': /pandas
 
-    Project:
+    Project (week 1-3):
         '[icon:1-circle] Keuze onderwerp [8 jan 17:00]': /milestones/keuze
         '[icon:2-circle] Beschrijving data [15 jan 17:00]': /milestones/beschrijving
         '[icon:3-circle] Inzicht met meer data [22 jan 17:00]': /milestones/inzicht
 
-    Afronding:
+    Afronding (week 4):
         '[icon:file-richtext] Poster [27 jan 15:00]': /milestones/poster
         '[icon:journal-code] Notebook [28 jan 15:00]': /milestones/notebook
         '[icon:person-vcard] Eindpresentatie [30 jan]': /milestones/eindpresentatie
