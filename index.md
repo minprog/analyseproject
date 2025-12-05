@@ -3,13 +3,17 @@
 **Periode**: maandag 5 januari 2025 -- vrijdag 30 januari 2025  
 **Eindpresentaties**: vrijdag 30 januari 2025 hele dag
 
-Studenten doen een **individueel project** waarin zij een **dataset analyseren**, een **notebook** maken en een **poster** om inzichten te presenteren en te verdedigen. Doelen zijn:
+Studenten doen een **individueel project** waarin zij een **dataset analyseren**, een **notebook** maken en een **poster** om inzichten te presenteren en te verdedigen.
 
+![](analyseproject-doelen.png)
+
+ Doelen zijn:
+ 
 - een goed begrip krijgen van de taal van statistiek
+- praktische ervaring opdoen met het beantwoorden van vragen met hulp van Pandas
 - ervaring opdoen met het uitvoeren een data-analyseproject
 - inzicht krijgen in kwaliteit van datasets
 - vragen leren bedenken die middels een dataset beantwoord kunnen worden
-- praktische ervaring opdoen met het beantwoorden van vragen met hulp van Pandas
 
 ## Aanwezigheid
 
