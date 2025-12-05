@@ -101,87 +101,88 @@ Bijeenkomsten hieronder zijn verplicht. Alle bijeenkomsten behalve vrijdag zijn 
 
 ### Week 1: Datasetselectie en statistiek
 
-| Dag       | Activiteit                                  | Locatie |
-| --------- | ------------------------------------------- | ------- |
-| Maandag   | Kick-off + werkcollege                      | L0.10   |
-| Dinsdag   | Huiswerk (statistiek)                       | thuis   |
-| Woensdag  | Toetsje statistiek 1 + start Project        | L0.10   |
-| Donderdag | Huiswerk (statistiek)                       | thuis   |
-| Vrijdag   | Toetsje statistiek 2 + voortgangsbespreking | Lab42   |
+| Dag       | Activiteit                             | Locatie |
+| --------- | -------------------------------------- | ------- |
+| Maandag   | Kick-off statistiek & pandas & project | L0.10   |
+| Dinsdag   | Huiswerk (statistiek en pandas)        | thuis   |
+| Woensdag  | Toetsje statistiek 1 + start Project   | L0.10   |
+| Donderdag | Huiswerk (project uitwerken)           | thuis   |
+| Vrijdag   | Voortgangsbespreking                   | Lab42   |
 
 - **Maandag**
-    - 11:00 Kick-off project: wat ga je doen en hoe werkt statistiek
-    - 13:00 Werkcollege statistiek: oefeningen en starten met cursus
+    - 11:00 Kick-off project: wat ga je doen, hoe werkt statistiek, hoe werkt pandas
+    - 13:00 Werkcollege
+        - Statistiek: oefeningen en starten met de online cursus
+        - Installatie-check Pandas, don't leave the room before it works!!!
+        - Starten met de Pandas-notebook, assistentie
 
 - **Dinsdag**
     - Huiswerk! Statistiek t/m spreidingsmaten, dus les 1 t/m 4
+    - Oefenen met de pandas-notebook
+        - Paragraaf: Dataframes
+        - Paragraaf: Series
+        - Paragraaf: Handling missing values
 
 - **Woensdag**
-    - 10:00 Kick-off technieken
-        - Uitleg tools: Notebooks en Pandas
-        - Installatie-check
-    - 10:30 <mark>Toetsje</mark> Statistiek deel 1
+    - 10:00 <mark>Toetsje</mark> Statistiek deel 1
         - Over: meten en schalen, tabellen, centrummaten en spreidingsmaten
-    - 10:45 Werken aan opdracht
-        - Start opdracht Pandas
+    - 11:00 Kort overzicht project
+        - Gesprek: wat is een goede dataset?
+        - Handout kwaliteits-eisen
+    - 11:20 Werken aan project en Pandas (aftekenen vanaf 12:00 uur)
+        - Zelf dataset zoeken die interessant is
         - Werken aan oefenopdracht Pandas, met assistentie
-        - Let op <mark>tussendeadline</mark>, zie onder
-
-    - Project (vanaf 13 uur): (!!!)
-        - Gesprek: Wat is een goede dataset?
-        - Enkele voorbeelden datasets laten zien
-        - Instructie dataset zoeken
-        - Zelf dataset gaan zoeken
-        - Karakteristieken in kaart brengen
-        - Ondersteuning bij datasetselectie en onderzoeksvraag
+        - Project-notebook beginnen
 
 - **Donderdag**
-    - Huiswerk! Statistiek t/m correlatie, dus les 5, 6 en 7
-    - Notebook deadline???
+    - 16:00 <mark>Deadline</mark> Project-notebook Milestone 1
 
 - **Vrijdag**
-    - Verplichte voortgangsbespreking: groep van 5, duurt ongeveer 1 uur
+    - Voortgangsbespreking: groep van 5, duurt ongeveer 1 uur
         - Presenteren van dataset en karakteristieken
         - Feedback van medestudenten en van docent, next steps
-    - 13:00 <mark>Toetsje</mark> statistiek deel 2
-        - Over: scheefheid, transformaties en correlatie
-    - 13:30 Vragenuur statistiek
-        - Kom langs in L0.10 als je er nog niet uitkomt
-        - Maandag is de tweede toets en we gaan door!
 
 ### Week 2: Databeschrijving
 
-| Dag       | Activiteit                             | Locatie |
-| --------- | -------------------------------------- | ------- |
-| Maandag   | Intro Pandas                           | L0.10   |
-| Dinsdag   | Huiswerk (Pandas)                      | thuis   |
-| Woensdag  | Toetsje Pandas + feedbackronde project | L0.10   |
-| Donderdag | Huiswerk (project)                     | thuis   |
-| Vrijdag   | Voortgangsbespreking                   | Lab42   |
+| Dag       | Activiteit                                   | Locatie |
+| --------- | -------------------------------------------- | ------- |
+| Maandag   | Intro Pandas                                 | L0.10   |
+| Dinsdag   | Huiswerk (statistiek en pandas)              | thuis   |
+| Woensdag  | Toetsje Statistiek 2 + feedbackronde project | L0.10   |
+| Donderdag | Huiswerk (project)                           | thuis   |
+| Vrijdag   | Voortgangsbespreking                         | Lab42   |
 
 Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde notebook en statistische beschrijving/visualisaties.
 
 - **Maandag**
-    - 13:00 Terugblik week 1
-    - 13:15 Toetsje Statistiek deel 1
-    - 13:30 Introductie Pandas
-    - Werken aan de Pandas-opdracht
+    - 13:00 Plotjes maken Seaborn
+    - 13:00 Aftekenen van dingen die vorige week niet af waren
+    - 13:30 Werken aan Pandas-notebook
+        - Paragraaf: Indexing, Selection and Masking
+        - Paragraaf: Operating on Dataframes
 
 - **Dinsdag**
+    - Huiswerk! Statistiek t/m correlatie, dus les 5, 6 en 7
     - Thuis werken aan Pandas-opdracht
+        - Paragraaf: Map
+        - Paragraaf: Sorting values
+        - Paragraaf: Grouping
 
 - **Woensdag**
-    - 10:00 Rondje individuele feedback op data-inzichten en notebook
-    - 11:00 Opzet project in notebook
-    - 17:00 Deadline Pandas-oefenopdrachten inleveren
+    - 10:00 <mark>Toetsje</mark> statistiek deel 2
+        - Over: scheefheid, transformaties en correlatie
+    - 11:00 Rondje individuele feedback op data-inzichten en notebook
+    - 12:00 Aftekenen voortgang Pandas
 
 - **Donderdag**
     - Thuis werken aan project
     - Inladen in Pandas, analyseren en beschrijven van datakwaliteit en datadistributies
-    - 17:00 Deadline inleveren project-notebook
+    - 16:00 <mark>Deadline</mark> Project-notebook Milestone 2
 
 - **Vrijdag**:
-    - Voortgangsbespreking: presenteren van datasetbeschrijvingen en eerste analyses.
+    - Voortgangsbespreking: groep van 5, duurt ongeveer 1 uur
+        - Presenteren van ...
+        - Feedback van medestudenten en van docent, next steps
 
 ### Week 3: Onderzoeksvraag en Web Scraping
 
@@ -197,24 +198,33 @@ Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verf
 
 - **Maandag**
     - 13:00 Instructie visualisaties
-    - Visualisaties maken en beantwoorden van de onderzoeksvraag
+        - Visualisaties maken
+        - Beantwoorden van de onderzoeksvraag
+
+- **Dinsdag**
+    - Huiswerk! Data-analyse en visualisaties maken
 
 - **Woensdag**
-    - 10:00 Feedbackronde visualisaties
-    - ...
+    - 10:00 Peer-feedbackronde visualisaties
+    - 10:45 Werken aan project-notebook en feedback van docenten
+
+- **Donderdag**
+    - 16:00 <mark>Deadline</mark> Project-notebook Milestone 3
 
 - **Vrijdag**:
-    - Voortgangsbespreking: bespreken van analyses en conclusies. Wat kan er volgende week gepresenteerd worden?
+    - Voortgangsbespreking: groep van 5, duurt ongeveer 1 uur
+        - Presenteren van analyses en conclusies
+        - Wat kan er volgende week gepresenteerd worden?
 
 ### Week 4: Posters en presentaties
 
-| Dag       | Activiteit               | Locatie |
-| --------- | ------------------------ | ------- |
-| Maandag   | Instructie posters maken | L0.10   |
-| Dinsdag   | Deadline poster (17:00)  | thuis   |
-| Woensdag  | Deadline verslag (17:00) | L0.10   |
-| Donderdag | Huiswerk (project)       | thuis   |
-| Vrijdag   | Voortgangsbespreking     | Lab42   |
+| Dag       | Activiteit                     | Locatie |
+| --------- | ------------------------------ | ------- |
+| Maandag   | Instructie posters maken       | L0.10   |
+| Dinsdag   | Deadline poster (15:00)        | thuis   |
+| Woensdag  | Deadline verslag (15:00)       | L0.10   |
+| Donderdag | Voorbereiding eindpresentaties | thuis   |
+| Vrijdag   | Eindpresentaties               | Lab42   |
 
 - **Maandag**
     - 13:00 Instructie posters maken
@@ -222,17 +232,19 @@ Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verf
 
 - **Dinsdag**
     - Thuis werken aan de poster
-    - 17:00 **Deadline** poster drukklaar
+    - 15:00 <mark>Deadline</mark> poster drukklaar
+        - Wij printen de poster voor je op groot formaat
 
 - **Woensdag**
-    - 10:00 Werken aan Pandas notebook-verslag, laatste feedback
-    - 15:00 **Deadline** verslag
+    - 10:00 Werken aan Pandas notebook-verslag, laatste feedback docenten
+    - 15:00 <mark>Deadline</mark> verslag ingeleverd als notebook
+
+- **Donderdag**
+    - Voorbereiding eindpresentatie: wat wil je vertellen bij de poster?
 
 - **Vrijdag**
     - 10:00 Eindpresentaties, vragen van docenten beantwoorden
-    - 12:00 Lunch
-    - 13:00 Eindpresentaties, vragen van docenten beantwoorden
-    - 15:00 Kick-out
+    - 12:00 Kick-out
 
 ## Contact en uitzonderingen
 
