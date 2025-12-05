@@ -39,15 +39,20 @@ Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Z
 
 ### 1. Statistiek
 
+<div class="row">
+<div class="col">
 Voor een voldoende eindcijfer
 
 - toetsjes overtuigend gehaald
 - correcte toepassing van statistische analyses in het project
-
+</div>
+<div class="col">
 Groeipunten (tot 1 punt erbij)
 
 - je laat statistische nuance zien in projectverslag en -uitleg (redeneren, mitsen en maren)
 - visualisaties ondersteunen in project en poster de uitleg, en andersom
+</div>
+</div>
 
 ### 2. Pandas
 
