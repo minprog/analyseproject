@@ -43,8 +43,8 @@ Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Z
 <div class="col">
 **Voor een voldoende eindcijfer**
 
-- toetsjes overtuigend gehaald
-- correcte toepassing van statistische analyses in het project
+- 2 toetsjes overtuigend gehaald
+- correcte toepassing van statistische analyses (t/m correlatie) in het project
 </div>
 <div class="col">
 **Groeipunten (tot 1 punt erbij)**
@@ -60,7 +60,7 @@ Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Z
 <div class="col">
 **Voor een voldoende eindcijfer**
 
-- opdrachten allemaal af en toetsje overtuigend gehaald
+- opdrachten allemaal af, ingeleverd én afgetekend
 - kunnen uitleggen van de eigen Pandas-code van project
 
 </div>
@@ -118,9 +118,11 @@ Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Z
 
 Zoals je ziet ligt er een hoop verantwoordelijkheid bij jou om vorm te geven aan je werk in het vak. Als je redelijkerwijs de instructies volgt kom je wel een heel eind, maar zorg echt zelf dat je je leren zichtbaar maakt.
 
+Als het misgaat met een eis uit de kolom "Voor een voldoende eindcijfer" betekent dat niet dat je het vak meteen helemaal niet gaat halen. Bespreek het met je begeleider/docent en stel een oplossing voor. Hoe langer je wacht, hoe kleiner de kans dat er nog een oplossing mogelijk is.
+
 ## Weekoverzicht
 
-Bijeenkomsten hieronder zijn verplicht. Alle bijeenkomsten behalve vrijdag zijn in lokaal L0.10.
+Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkomsten behalve vrijdag zijn in lokaal L0.10.
 
 ### Week 1: Datasetselectie en statistiek
 
@@ -158,6 +160,10 @@ Bijeenkomsten hieronder zijn verplicht. Alle bijeenkomsten behalve vrijdag zijn 
         - Project-notebook beginnen
 
 - **Donderdag**
+    - Thuis werken aan project
+    - Inladen data
+    - Voorstellen bedenken onderzoeksvraag
+    - Beschrijven van de kwaliteit van de dataset en de variabelen
     - 16:00 <mark>Deadline</mark> Project-notebook Milestone 1
 
 - **Vrijdag**
@@ -199,12 +205,12 @@ Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde noteboo
 
 - **Donderdag**
     - Thuis werken aan project
-    - Inladen in Pandas, analyseren en beschrijven van datakwaliteit en datadistributies
+    - Analyse van de variabelen, en van correlaties in de data
     - 16:00 <mark>Deadline</mark> Project-notebook Milestone 2
 
 - **Vrijdag**:
     - Voortgangsbespreking: groep van 5, duurt ongeveer 1 uur
-        - Presenteren van ...
+        - Presenteren van variabelen en correlaties
         - Feedback van medestudenten en van docent, next steps
 
 ### Week 3: Onderzoeksvraag en Web Scraping
@@ -232,6 +238,9 @@ Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verf
     - 10:45 Werken aan project-notebook en feedback van docenten
 
 - **Donderdag**
+    - Thuis werken aan project
+    - Zoeken van aanvullende datasets (niet per se inladen)
+    - Analyse missing values en conclusies
     - 16:00 <mark>Deadline</mark> Project-notebook Milestone 3
 
 - **Vrijdag**:
