@@ -41,13 +41,13 @@ Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Z
 
 <div class="row">
 <div class="col">
-Voor een voldoende eindcijfer
+**Voor een voldoende eindcijfer**
 
 - toetsjes overtuigend gehaald
 - correcte toepassing van statistische analyses in het project
 </div>
 <div class="col">
-Groeipunten (tot 1 punt erbij)
+**Groeipunten (tot 1 punt erbij)**
 
 - je laat statistische nuance zien in projectverslag en -uitleg (redeneren, mitsen en maren)
 - visualisaties ondersteunen in project en poster de uitleg, en andersom
@@ -56,18 +56,26 @@ Groeipunten (tot 1 punt erbij)
 
 ### 2. Pandas
 
+<div class="row">
+<div class="col">
 Voor een voldoende eindcijfer
 
 - opdrachten allemaal af en toetsje overtuigend gehaald
 - kunnen uitleggen van de eigen Pandas-code van project
 
+</div>
+<div class="col">
 Groeipunten (tot 1 punt erbij)
 
 - goed leesbare en overzichtelijke code in project
 - geavanceerde Pandas-transformaties toegepast
+</div>
+</div>
 
 ### 3. Project
 
+<div class="row">
+<div class="col">
 Voor een voldoende eindcijfer
 
 - duidelijke en zinvolle onderzoeksvraag
@@ -77,26 +85,36 @@ Voor een voldoende eindcijfer
 - notebook is reproduceerbaar
 - poster is begrijpelijk
 
+</div>
+<div class="col">
 Groeipunten (tot 1 punt erbij)
 
 - vernieuwende of elegante onderzoeksvraag en -aanpak
 - originele inzichtelijke visualisaties
 - aantoonbaar iteratief gewerkt
 - verdiept statistisch redeneren in uitwerking
+</div>
+</div>
 
 ### 4. Proces
 
+<div class="row">
+<div class="col">
 Voor een voldoende eindcijfer
 
 - procesboek compleet en geloofwaardig
 - twee feedbackrondes benut en aantoonbaar verwerkt
 - consequente deelname aan activiteiten
 
+</div>
+<div class="col">
 Groeipunten (tot 0,5 punt erbij)
 
 - expliciet uitgewerkte procesverslag met uitleg van iteratief werken
 - peer feedback gegeven op hoog niveau
 - sterke reflecties in het verslag
+</div>
+</div>
 
 Zoals je ziet ligt er een hoop verantwoordelijkheid bij jou om vorm te geven aan je werk in het vak. Als je redelijkerwijs de instructies volgt kom je wel een heel eind, maar zorg echt zelf dat je je leren zichtbaar maakt.
 
