@@ -58,14 +58,14 @@ Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Z
 
 <div class="row">
 <div class="col">
-Voor een voldoende eindcijfer
+**Voor een voldoende eindcijfer**
 
 - opdrachten allemaal af en toetsje overtuigend gehaald
 - kunnen uitleggen van de eigen Pandas-code van project
 
 </div>
 <div class="col">
-Groeipunten (tot 1 punt erbij)
+**Groeipunten (tot 1 punt erbij)**
 
 - goed leesbare en overzichtelijke code in project
 - geavanceerde Pandas-transformaties toegepast
@@ -76,7 +76,7 @@ Groeipunten (tot 1 punt erbij)
 
 <div class="row">
 <div class="col">
-Voor een voldoende eindcijfer
+**Voor een voldoende eindcijfer**
 
 - duidelijke en zinvolle onderzoeksvraag
 - passende datasets
@@ -87,7 +87,7 @@ Voor een voldoende eindcijfer
 
 </div>
 <div class="col">
-Groeipunten (tot 1 punt erbij)
+**Groeipunten (tot 1 punt erbij)**
 
 - vernieuwende of elegante onderzoeksvraag en -aanpak
 - originele inzichtelijke visualisaties
@@ -100,7 +100,7 @@ Groeipunten (tot 1 punt erbij)
 
 <div class="row">
 <div class="col">
-Voor een voldoende eindcijfer
+**Voor een voldoende eindcijfer**
 
 - procesboek compleet en geloofwaardig
 - twee feedbackrondes benut en aantoonbaar verwerkt
@@ -108,7 +108,7 @@ Voor een voldoende eindcijfer
 
 </div>
 <div class="col">
-Groeipunten (tot 0,5 punt erbij)
+**Groeipunten (tot 0,5 punt erbij)**
 
 - expliciet uitgewerkte procesverslag met uitleg van iteratief werken
 - peer feedback gegeven op hoog niveau
