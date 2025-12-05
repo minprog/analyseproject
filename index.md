@@ -10,7 +10,7 @@ Studenten doen een **individueel project** waarin zij een **dataset analyseren**
  Doelen zijn:
  
 - een goed begrip krijgen van de taal van statistiek
-- praktische ervaring opdoen met het beantwoorden van vragen met hulp van Pandas
+- praktische ervaring opdoen met analyseren en manipuleren van data met Pandas
 - ervaring opdoen met het uitvoeren een data-analyseproject
 - inzicht krijgen in kwaliteit van datasets
 - vragen leren bedenken die middels een dataset beantwoord kunnen worden
