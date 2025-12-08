@@ -284,7 +284,7 @@ Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verf
 
 ## Contact en uitzonderingen
 
-Voor vragen of aanvullende begeleiding: neem contact op via e-mail of spreek de begeleider aan tijdens de practica.
+Voor vragen of aanvullende begeleiding: neem contact op via [e-mail](mailto:python@proglab.nl) of spreek de begeleider aan tijdens de practica.
 
 Alle vormen van uitzonderingen moeten per mail worden afgesproken. Mondelinge afspraken zijn niet geldig.
 
