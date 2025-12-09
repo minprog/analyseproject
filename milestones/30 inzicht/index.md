@@ -1,4 +1,4 @@
-# Milestone 3. Extra data en beantwoording van de onderzoeksvraag
+# Milestone 3: extra data en beantwoording van de onderzoeksvraag
 
 > Let op! Werk voor deze opdracht door met de Notebook die je bij de vorige milestone gemaakt hebt. Maak een nieuw kopje voor "Aanvullende data inladen" en "Beantwoording onderzoeksvraag" en behandel de volgende onderdelen.
 

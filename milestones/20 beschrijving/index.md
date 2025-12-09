@@ -1,4 +1,4 @@
-# Milestone 2. Beschrijving van je dataset
+# Milestone 2: beschrijving van je dataset
 
 > Let op! Werk voor deze opdracht door met de Notebook die je bij de vorige milestone gemaakt hebt. Maak een nieuw kopje voor "Beschrijving van de dataset" en behandel de volgende onderdelen.
 

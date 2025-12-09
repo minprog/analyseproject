@@ -21,13 +21,13 @@ grades:
     pandas:
         <<: *aftekenen
         deadline: 09/01/26 14:00
-    keuze:
+    milestone_1:
         <<: *aftekenen
         deadline: 09/01/26 14:00
-    beschrijving:
+    milestone_2:
         <<: *aftekenen
         deadline: 16/01/26 14:00
-    inzicht:
+    milestone_3:
         <<: *aftekenen
         deadline: 23/01/26 14:00
     notebook:
@@ -46,9 +46,9 @@ milestones:
     show_progress: true
     submits:
         pandas: 1
-        keuze: 1
-        beschrijving: 1
-        inzicht: 1
+        milestone_1: 1
+        milestone_2: 1
+        milestone_3: 1
         notebook: 1
         poster: 1
 

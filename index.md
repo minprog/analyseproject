@@ -250,7 +250,7 @@ Voordat je deze week begint moet de Pandas-notebook van begin tot eind helemaal 
     - Huiswerk! Data-analyse en visualisaties maken
 
 - **Woensdag**
-    - 10:00 Peer-feedbackronde visualisaties
+    - 10:00 <mark>Peer-feedbackronde</mark> visualisaties
     - 10:45 Werken aan project-notebook en feedback van docenten
 
 - **Donderdag**
