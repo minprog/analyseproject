@@ -37,7 +37,7 @@ Daarnaast kunnen docenten en assistenten tijdens alle geroosterde werkgroepen he
 
 In een "procesboek" moet elke student dagelijks per uur aangeven waar aan is gewerkt. Ook moeten beslissingen over de inrichting van het project worden beschreven. Het procesboek wordt gebruikt in de beoordeling en kan als bron dienen voor het verslag.
 
-## Beoordeling en deadlines
+## Beoordeling
 
 Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Zie de lijstjes hieronder. Daarnaast kun je op allerlei manieren "groeipunten" verdienen. In totaal kunt je dan een 9,5 halen. Met een heel bijzonder coherent project op alle fronten kan dit, naar inzicht van het docententeam, een 10 worden.
 
@@ -124,11 +124,21 @@ Zoals je ziet ligt er een hoop verantwoordelijkheid bij jou om vorm te geven aan
 
 Als het misgaat met een eis uit de kolom "Voor een voldoende eindcijfer" betekent dat niet dat je het vak meteen helemaal niet gaat halen. Bespreek het met je begeleider/docent en stel een oplossing voor. Hoe langer je wacht, hoe kleiner de kans dat er nog een oplossing mogelijk is.
 
-Let op: de Pandas-notebook en de toetsjes van statistiek moeten **uiterlijk op de 3e maandag** helemaal afgerond zijn, anders kun je niet door met het vak. Dit is belangrijk voorbereidend werk voor het project en omdat het project dan nog maar ruim een week duurt, is dit een harde deadline.
+## Deadlines
+
+Dit is best streng, want het vak duurt precies 20 werkdagen en niet langer.
+
+1. De Pandas-notebook en de toetsjes van statistiek moeten **uiterlijk op de 3e maandag** helemaal afgerond zijn, anders kun je niet door met het vak. Dit is belangrijk voorbereidend werk voor het project en omdat het project dan nog maar ruim een week duurt, is dit een harde deadline.
+
+2. **Elke week** moet je een update insturen van jouw voortgang voor het project. Dit is een Jupyter Notebook die je steeds weer aanvult en uitbreidt. De deadline is steeds op donderdagmiddag (niet avond) zodat je docent zich kan voorbereiden. Afhankelijk van je situatie kan hier een keer een uitzondering voor gemaakt worden, mits je wel je voortgang komt verdedigen op de vrijdag-sessie en actief contact opneemt met je begeleider.
+
+3. In de laatste week zijn een aantal **afrondende deadlines**. Als je deze niet redt dan zul je het vak niet kunnen halen, omdat de definitieve eindcijfers meteen die week worden ingeleverd. Voor het project is ook geen herkansing mogelijk, anders dan het vak opnieuw volgen.
+
+Mochten er bijzondere omstandigheden zijn dan moet je deze zeker melden, ook bij de studieadviseur. Maar er kan geen groot uitstel gegeven worden omdat je na dit vak gewoon aan de slag moet met de twee volgende vakken die in februari starten.
 
 ## Weekoverzicht
 
-Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkomsten behalve vrijdag zijn in lokaal L0.10.
+Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkomsten behalve vrijdag zijn in lokaal L0.10. Zie het rooster voor de vrijdag-lokalen.
 
 ### Week 1: Datasetselectie en statistiek
 
