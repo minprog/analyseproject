@@ -139,29 +139,37 @@ Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkom
 | Vrijdag   | Voortgangsbespreking                   | Lab42   |
 
 - **Maandag**
-    - 11:00 Kick-off project: wat ga je doen, hoe werkt statistiek, hoe werkt pandas
+    - 11:00 Kick-off project: wat ga je doen!?
+    - 11:15 Presentatie oud-student
+    - 11:30 Hoe werkt Pandas
+    - 11:45 Korte pauze
+    - 12:00 Hoe werkt statistiek
+    - 12:30 Lange pauze
     - 13:00 Werkcollege
         - Statistiek: oefeningen en starten met de online cursus
-        - Installatie-check Pandas, don't leave the room before it works!!!
+        - Installatie-check Jupyter en Pandas, don't leave the room before it works!!!
         - Starten met de Pandas-notebook, assistentie
 
 - **Dinsdag**
     - Huiswerk! Statistiek t/m spreidingsmaten, dus les 1 t/m 4
-    - Oefenen met de pandas-notebook
+    - Oefenen met de pandas-notebook (geef statistiek absoluut voorrang!)
         - Paragraaf: Dataframes
         - Paragraaf: Series
-        - Paragraaf: Handling missing values
+        - Paragraaf: Indexing, Selection and Masking
 
 - **Woensdag**
     - 10:00 <mark>Toetsje</mark> Statistiek deel 1
         - Over: meten en schalen, tabellen, centrummaten en spreidingsmaten
     - 11:00 Kort overzicht project
+        - Voorbeeld data inladen in Pandas
         - Gesprek: wat is een goede dataset?
-        - Handout kwaliteits-eisen
-    - 11:20 Werken aan project en Pandas (aftekenen vanaf 12:00 uur)
+        - Handout kwaliteitseisen
+    - 11:20 Werken aan project en Pandas
         - Zelf dataset zoeken die interessant is
         - Werken aan oefenopdracht Pandas, met assistentie
         - Project-notebook beginnen
+    - vanaf 12:00 <mark>Aftekenen</mark> Pandas-werk van deze week met docent
+    - Daarna door met project-werk tot einde college
 
 - **Donderdag**
     - Thuis werken aan project
@@ -171,9 +179,10 @@ Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkom
     - 16:00 <mark>Deadline</mark> Project-notebook Milestone 1
 
 - **Vrijdag**
-    - Voortgangsbespreking: groep van 5, duurt ongeveer 1 uur
+    - <mark>Voortgangsbespreking</mark>: groep van 5, duurt ongeveer 1 uur
+        - Je toont jouw notebook via je laptop op het scherm
         - Presenteren van dataset en karakteristieken
-        - Feedback van medestudenten en van docent, next steps
+        - Feedback van medestudenten en van docent, next steps bepalen
 
 ### Week 2: Databeschrijving
 
@@ -188,18 +197,18 @@ Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkom
 Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde notebook en statistische beschrijving/visualisaties.
 
 - **Maandag**
-    - 13:00 Plotjes maken Seaborn
+    - 13:00 Uitleg: plotjes maken in Seaborn met data van Pandas
     - 13:00 Aftekenen van dingen die vorige week niet af waren
     - 13:30 Werken aan Pandas-notebook
-        - Paragraaf: Indexing, Selection and Masking
         - Paragraaf: Operating on Dataframes
+        - Paragraaf: Map
 
 - **Dinsdag**
     - Huiswerk! Statistiek t/m correlatie, dus les 5, 6 en 7
     - Thuis werken aan Pandas-opdracht
-        - Paragraaf: Map
         - Paragraaf: Sorting values
         - Paragraaf: Grouping
+        - Paragraaf: Handling missing values
 
 - **Woensdag**
     - 10:00 <mark>Toetsje</mark> statistiek deel 2
@@ -213,7 +222,7 @@ Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde noteboo
     - 16:00 <mark>Deadline</mark> Project-notebook Milestone 2
 
 - **Vrijdag**:
-    - Voortgangsbespreking: groep van 5, duurt ongeveer 1 uur
+    - <mark>Voortgangsbespreking</mark>: groep van 5, duurt ongeveer 1 uur
         - Presenteren van variabelen en correlaties
         - Feedback van medestudenten en van docent, next steps
 
@@ -248,7 +257,7 @@ Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verf
     - 16:00 <mark>Deadline</mark> Project-notebook Milestone 3
 
 - **Vrijdag**:
-    - Voortgangsbespreking: groep van 5, duurt ongeveer 1 uur
+    - <mark>Voortgangsbespreking</mark>: groep van 5, duurt ongeveer 1 uur
         - Presenteren van analyses en conclusies
         - Wat kan er volgende week gepresenteerd worden?
 
@@ -279,7 +288,7 @@ Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verf
     - Voorbereiding eindpresentatie: wat wil je vertellen bij de poster?
 
 - **Vrijdag**
-    - 10:00 Eindpresentaties, vragen van docenten beantwoorden
+    - 10:00 <mark>Eindpresentaties</mark>, vragen van docenten beantwoorden
     - 12:00 Kick-out
 
 ## Contact en uitzonderingen
