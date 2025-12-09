@@ -37,7 +37,7 @@ Daarnaast kunnen docenten en assistenten tijdens alle geroosterde werkgroepen he
 
 In een "procesboek" moet elke student dagelijks per uur aangeven waar aan is gewerkt. Ook moeten beslissingen over de inrichting van het project worden beschreven. Het procesboek wordt gebruikt in de beoordeling en kan als bron dienen voor het verslag.
 
-## Beoordeling
+## Beoordeling en deadlines
 
 Voor een voldoende eindcijfer (6) moet je aan een aantal minimumeisen voldoen. Zie de lijstjes hieronder. Daarnaast kun je op allerlei manieren "groeipunten" verdienen. In totaal kunt je dan een 9,5 halen. Met een heel bijzonder coherent project op alle fronten kan dit, naar inzicht van het docententeam, een 10 worden.
 
