@@ -38,4 +38,4 @@ Normaal bepaal je eerst je onderzoeksvraag en zoek je daar een geschikte dataset
 
 De kwaliteit van een dataset bepaalt voor een groot deel de validiteit van het onderzoek dat aan de hand van die dataset wordt gedaan, de zogenaamde Data Quality Assessment (DQA). Helaas is er geen standaard definitie van de kwaliteitseisen die aan data kunnen en mogen worden gesteld. In de op het college uitgedeelde hand-out worden enkele begrippen uitgelegd die vaak in verband met DQA worden genoemd.
 
-**Opdracht 1c** Behandel in minstens 500 woorden minimaal vijf kwaliteitseisen die in de hand-out worden genoemd en beschrijf of de door jou gekozen dataset daar al dan niet aan voldoet.
+**Opdracht 1c** Behandel in minstens 500 woorden minimaal vijf kwaliteitseisen die in de hand-out worden genoemd en beschrijf *hoe* de door jou gekozen dataset daar al dan niet aan voldoet.

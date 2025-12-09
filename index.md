@@ -155,7 +155,7 @@ Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkom
     - Oefenen met de pandas-notebook (geef statistiek absoluut voorrang!)
         - Paragraaf: Dataframes
         - Paragraaf: Series
-        - Paragraaf: Indexing, Selection and Masking
+        - Paragraaf: Indexing, Selection & Masking ongeveer t/m exercise 6
 
 - **Woensdag**
     - 10:00 <mark>Toetsje</mark> Statistiek deel 1
@@ -194,32 +194,34 @@ Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkom
 | Donderdag | Huiswerk (project)                           | thuis   |
 | Vrijdag   | Voortgangsbespreking                         | Lab42   |
 
-Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde notebook en statistische beschrijving/visualisaties.
+Voordat je deze week begint moet de Pandas-notebook t/m exercise 6 helemaal netjes en begrepen zijn. Als je deze nog niet succesvol had afgetekend kan dat alleen nog tijdens de les op maandag.
 
 - **Maandag**
     - 13:00 Uitleg: plotjes maken in Seaborn met data van Pandas
-    - 13:00 Aftekenen van dingen die vorige week niet af waren
+    - 13:00 <mark>Aftekenen</mark> van dingen die vorige week niet af waren
     - 13:30 Werken aan Pandas-notebook
         - Paragraaf: Operating on Dataframes
         - Paragraaf: Map
 
 - **Dinsdag**
     - Huiswerk! Statistiek t/m correlatie, dus les 5, 6 en 7
-    - Thuis werken aan Pandas-opdracht
+    - Thuis werken aan Pandas-opdracht, zoveel mogelijk afmaken
         - Paragraaf: Sorting values
-        - Paragraaf: Grouping
         - Paragraaf: Handling missing values
+        - Paragraaf: Grouping
 
 - **Woensdag**
     - 10:00 <mark>Toetsje</mark> statistiek deel 2
         - Over: scheefheid, transformaties en correlatie
-    - 11:00 Rondje individuele feedback op data-inzichten en notebook
-    - 12:00 Aftekenen voortgang Pandas
+    - 11:00 Rondje individuele feedback op data-inzichten en project-notebook
+    - vanaf 12:00 <mark>Aftekenen</mark> Pandas-werk van deze week met docent
+    - Daarna door met project-werk tot einde college
 
 - **Donderdag**
     - Thuis werken aan project
     - Analyse van de variabelen, en van correlaties in de data
     - 16:00 <mark>Deadline</mark> Project-notebook Milestone 2
+        - Op basis van ingeladen data heb je statistische beschrijvingen en visualisaties gemaakt.
 
 - **Vrijdag**:
     - <mark>Voortgangsbespreking</mark>: groep van 5, duurt ongeveer 1 uur
@@ -236,12 +238,13 @@ Milestone project op vrijdag: dataset ingeladen in een Pandas-gebaseerde noteboo
 | Donderdag | Huiswerk (project)                       | thuis   |
 | Vrijdag   | Voortgangsbespreking                     | Lab42   |
 
-Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verfijnde stats en visualisaties.
+Voordat je deze week begint moet de Pandas-notebook van begin tot eind helemaal netjes en begrepen zijn. Als je deze nog niet succesvol had afgetekend kan dat alleen nog tijdens de les op maandag.
 
 - **Maandag**
     - 13:00 Instructie visualisaties
         - Visualisaties maken
         - Beantwoorden van de onderzoeksvraag
+    - 14:00 <mark>Aftekenen</mark> van dingen die vorige week niet af waren
 
 - **Dinsdag**
     - Huiswerk! Data-analyse en visualisaties maken
@@ -255,6 +258,7 @@ Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verf
     - Zoeken van aanvullende datasets (niet per se inladen)
     - Analyse missing values en conclusies
     - 16:00 <mark>Deadline</mark> Project-notebook Milestone 3
+        - Vraag is nu beantwoord en uitgelegd aan de hand van verfijnde stats en visualisaties.
 
 - **Vrijdag**:
     - <mark>Voortgangsbespreking</mark>: groep van 5, duurt ongeveer 1 uur
@@ -272,20 +276,22 @@ Milestone project op vrijdag: vraag beantwoord en uitgelegd aan de hand van verf
 | Vrijdag   | Eindpresentaties               | Lab42   |
 
 - **Maandag**
-    - 13:00 Instructie posters maken
+    - 13:00 Uitleg: posters maken bij dit vak
     - 13:30 Werken aan posters, eerste schetsen, peer feedback
+    - 14:00 <mark>Aftekenen</mark> postervoorstel
+    - Eind van het college heb je uitgewerkte schetsen en goedkeuring van docent
 
 - **Dinsdag**
     - Thuis werken aan de poster
     - 15:00 <mark>Deadline</mark> poster drukklaar
-        - Wij printen de poster voor je op groot formaat
+    - Wij printen de poster voor je op groot formaat, dus wees op tijd
 
 - **Woensdag**
     - 10:00 Werken aan Pandas notebook-verslag, laatste feedback docenten
     - 15:00 <mark>Deadline</mark> verslag ingeleverd als notebook
 
 - **Donderdag**
-    - Voorbereiding eindpresentatie: wat wil je vertellen bij de poster?
+    - Voorbereiding eindpresentatie: wat wil je vertellen bij de poster? Welke vragen zal de docent stellen en hoe kan je die beantwoorden? Handig om dit samen met medestudenten voor te bereiden.
 
 - **Vrijdag**
     - 10:00 <mark>Eindpresentaties</mark>, vragen van docenten beantwoorden
