@@ -124,6 +124,8 @@ Zoals je ziet ligt er een hoop verantwoordelijkheid bij jou om vorm te geven aan
 
 Als het misgaat met een eis uit de kolom "Voor een voldoende eindcijfer" betekent dat niet dat je het vak meteen helemaal niet gaat halen. Bespreek het met je begeleider/docent en stel een oplossing voor. Hoe langer je wacht, hoe kleiner de kans dat er nog een oplossing mogelijk is.
 
+Let op: de Pandas-notebook en de toetsjes van statistiek moeten **uiterlijk op de 3e maandag** helemaal afgerond zijn, anders kun je niet door met het vak. Dit is belangrijk voorbereidend werk voor het project en omdat het project dan nog maar ruim een week duurt, is dit een harde deadline.
+
 ## Weekoverzicht
 
 Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkomsten behalve vrijdag zijn in lokaal L0.10.
