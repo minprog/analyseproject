@@ -140,15 +140,9 @@ Mochten er bijzondere omstandigheden zijn dan moet je deze zeker melden, ook bij
 
 Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkomsten behalve vrijdag zijn in lokaal L0.10. Zie het rooster voor de vrijdag-lokalen.
 
-### Week 1: Datasetselectie en statistiek
+![weekschema](schema.png)
 
-| Dag       | Activiteit                             | Locatie |
-| --------- | -------------------------------------- | ------- |
-| Maandag   | Kick-off statistiek & pandas & project | L0.10   |
-| Dinsdag   | Huiswerk (statistiek en pandas)        | thuis   |
-| Woensdag  | Toetsje statistiek 1 + start Project   | L0.10   |
-| Donderdag | Huiswerk (project uitwerken)           | thuis   |
-| Vrijdag   | Voortgangsbespreking                   | Lab42   |
+### Week 1: Datasetselectie en statistiek
 
 - **Maandag**
     - 11:00 Kick-off project: wat ga je doen!?
@@ -198,14 +192,6 @@ Bijeenkomsten met specifieke activiteiten zijn sowieso verplicht. Alle bijeenkom
 
 ### Week 2: Databeschrijving
 
-| Dag       | Activiteit                                   | Locatie |
-| --------- | -------------------------------------------- | ------- |
-| Maandag   | Intro Pandas                                 | L0.10   |
-| Dinsdag   | Huiswerk (statistiek en pandas)              | thuis   |
-| Woensdag  | Toetsje Statistiek 2 + feedbackronde project | L0.10   |
-| Donderdag | Huiswerk (project)                           | thuis   |
-| Vrijdag   | Voortgangsbespreking                         | Lab42   |
-
 Voordat je deze week begint moet de Pandas-notebook t/m exercise 6 helemaal netjes en begrepen zijn. Als je deze nog niet succesvol had afgetekend kan dat alleen nog tijdens de les op maandag.
 
 - **Maandag**
@@ -242,14 +228,6 @@ Voordat je deze week begint moet de Pandas-notebook t/m exercise 6 helemaal netj
 
 ### Week 3: Onderzoeksvraag en Web Scraping
 
-| Dag       | Activiteit                               | Locatie |
-| --------- | ---------------------------------------- | ------- |
-| Maandag   | Instructie visualisaties                 | L0.10   |
-| Dinsdag   | Huiswerk (project)                       | thuis   |
-| Woensdag  | Werken aan visualisaties + feedbackronde | L0.10   |
-| Donderdag | Huiswerk (project)                       | thuis   |
-| Vrijdag   | Voortgangsbespreking                     | Lab42   |
-
 Voordat je deze week begint moet de Pandas-notebook van begin tot eind helemaal netjes en begrepen zijn. Als je deze nog niet succesvol had afgetekend kan dat alleen nog tijdens de les op maandag.
 
 - **Maandag**
@@ -278,14 +256,6 @@ Voordat je deze week begint moet de Pandas-notebook van begin tot eind helemaal 
         - Wat kan er volgende week gepresenteerd worden?
 
 ### Week 4: Posters en presentaties
-
-| Dag       | Activiteit                     | Locatie |
-| --------- | ------------------------------ | ------- |
-| Maandag   | Instructie posters maken       | L0.10   |
-| Dinsdag   | Deadline poster (15:00)        | thuis   |
-| Woensdag  | Deadline verslag (15:00)       | L0.10   |
-| Donderdag | Voorbereiding eindpresentaties | thuis   |
-| Vrijdag   | Eindpresentaties               | Lab42   |
 
 - **Maandag**
     - 13:00 Uitleg: posters maken bij dit vak
