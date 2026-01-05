@@ -223,6 +223,7 @@ Voordat je deze week begint moet de Pandas-notebook t/m exercise 6 helemaal netj
 
 - **Vrijdag**:
     - <mark>Voortgangsbespreking</mark>: groep van 5, duurt ongeveer 1 uur
+        - Presenteren van een zinvolle plot: hoe gemaakt en wat zegt het?
         - Presenteren van variabelen en correlaties
         - Feedback van medestudenten en van docent, next steps
 

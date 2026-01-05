@@ -14,7 +14,19 @@ Alle [oefeningen en de benodigde achtergrondinformatie staan in een zipfile](pan
 
 ## Installeren
 
-Je zou al "Anaconda" op je computer moeten hebben omdat dit tijdens de introductie is geïnstalleerd. [Zie deze chatGPT share voor instructies om jupyter notebook op te starten en/of te installeren als je Anaconda hebt.](https://chatgpt.com/share/677ac682-5d6c-8003-a7a5-61d961dcba14) Als je geen Anaconda lijkt te hebben, chat dan verder door uit te leggen wat je op je scherm krijgt en wat je probeert - ChatGPT zal je verder helpen. Maar schroom niet om de docenten erbij te halen tijdens college :-)
+Je hebt al Python geïnstalleerd. Zorg dat dit nu echt soepel werkt en dat je in de terminal/command prompt ook Jupyter Notebook kunt opstarten.
+
+Start deze ChatGPT share om te checken (gebruik a.u.b. deze en niet gewoon ChatGPT: we hebben 'm gevoerd met relevante informatie zodat het minder snel misloopt):
+
+<https://chatgpt.com/g/g-muT6gPRxL-python-kickstarter>
+
+Als je Python gewoon werkt, installeer dan met `pip` deze packages:
+
+- jupyter
+- seaborn
+- pandas
+
+Je kunt die ChatGPT ook vragen om hulp hierbij.
 
 ## Starten
 
