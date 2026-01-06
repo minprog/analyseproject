@@ -1,5 +1,9 @@
 # Milestone 1: dataset, vraagstelling, kwaliteit
 
+> Voordat je begint met uitwerken maak je in Jupyter een lege notebook. Geef deze een droge titel zoals "Analyseproject van Voornaam Achternaam". Hieronder moet je open vragen beantwoorden. Maak in je notebook kopjes en beantwoord de vragen. Als je code moet schrijven maak je een nieuwe code-cel aan op een logische plek. Zorg dat je boven de code-cel ook een kopje en een omschrijving plaatst van wat de code moet doen.
+>
+> Tip: de cel met `import` van Pandas kun je copy-pasten van de oefen-notebook.
+
 In verscheidene masters (onder andere Data Science) wordt gevraagd onderzoek te doen aan de hand van bestaande datasets. Ook in de praktijk van het bedrijfsleven zijn grote datasets van groot belang:
 
 - Albert Heijn gebruikt de middels de bonuskaart verzamelde verkoopgegevens om hun voorraadbeheer te optimaliseren, agrarische bedrijven minimaliseren hun stikstofuitstoot met behulp van sensordata uit hun stallen en applicaties die gebruik maken van Large Language models en die getraind zijn op grote datasets (zoals ChatGPT) zijn niet meer weg te denken uit onze samenleving.
@@ -32,10 +36,14 @@ Als onderdeel van deze vraag moet je de dataset inladen in je Notebook met hulp 
 
 Normaal bepaal je eerst je onderzoeksvraag en zoek je daar een geschikte dataset bij, maar vanwege de beperkte tijd doen we het in dit vak andersom. Zorg dat je onderzoeksvraag relevant is en niet te groot. De vraag moet natuurlijk opgelost kunnen worden met data-analyse, en niet een groot onderzoek waarbij je ook nog mensen moet interviewen, eindeloos papers lezen, enzovoort.
 
-**Opdracht 1b** Geef in minimaal 250 woorden een onderzoeksvraag die met de gekozen dataset te beantwoorden is. Schets kort een onderzoek waarmee de onderzoeksvraag te beantwoorden is. Let op, je hoeft het betreffende onderzoek mogelijk niet volledig uit te voeren, maar de onderzoeksvraag moet wel met de dataset te beantwoorden zijn. Motiveer dat de betreffende onderzoeksvraag maatschappelijk en/of wetenschappelijk relevant is (en gewoon: wat jij interessant vindt en graag wil begrijpen).
+**Opdracht 1b** Geef in minimaal 250 woorden een onderzoeksvraag die met de gekozen dataset te beantwoorden is. Schets kort een onderzoek (welke data nodig, wat mist er, hoe combineren) waarmee de onderzoeksvraag te beantwoorden is. Je mag hier een beetje dromen. Wij gaan tijdens de vrijdagsessie je op het spoor zetten van een haalbare versie van jouw idee. Motiveer tot slot in 100 woorden dat de betreffende onderzoeksvraag maatschappelijk en/of wetenschappelijk relevant is (en gewoon: wat jij interessant vindt en graag wil begrijpen).
 
 ## Kwaliteit
 
-De kwaliteit van een dataset bepaalt voor een groot deel de validiteit van het onderzoek dat aan de hand van die dataset wordt gedaan, de zogenaamde Data Quality Assessment (DQA). Helaas is er geen standaard definitie van de kwaliteitseisen die aan data kunnen en mogen worden gesteld. In de op het college uitgedeelde hand-out worden enkele begrippen uitgelegd die vaak in verband met DQA worden genoemd.
+De kwaliteit van een dataset bepaalt voor een groot deel de validiteit van het onderzoek dat aan de hand van die dataset wordt gedaan, de zogenaamde Data Quality Assessment (DQA). Er is geen standaarddefinitie van de kwaliteitseisen die aan data kunnen en mogen worden gesteld. Maar je krijgt een handout met een aantal criteria die we vanuit het vak belangrijk vinden.
 
 **Opdracht 1c** Behandel in minstens 500 woorden minimaal vijf kwaliteitseisen die in de hand-out worden genoemd en beschrijf *hoe* de door jou gekozen dataset daar al dan niet aan voldoet.
+
+## Inleveren
+
+Lever je Notebook in op de submit-tab. Alles moet helemaal netjes opgemaakt zijn, inclusief de code die je hebt geschreven. Gebruik het menu "Restart kernel and run all cells" om alle code van boven naar beneden in één keer te runnen. Check dat de juiste output gegeven wordt en geen foutmeldingen verschijnen. Gebruik **nooit** "Clear cells" om de output te verwijderen voordat je inlevert.
