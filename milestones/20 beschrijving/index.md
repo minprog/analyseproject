@@ -24,7 +24,7 @@ Gebruik [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html#a-high-l
 
 Na de analyse hierboven weet je veel over in ieder geval de belangrijkste variabelen, maar je weet weinig over de samenhang van de data, dat wil zeggen over de verbanden tussen twee of meer variabelen.
 
-De simpelste verbanden kun je uitdrukken door middel van correlatie (een lineaire formule) of regressie (een polynomiaal).
+De simpelste verbanden kun je uitdrukken door middel van een lineaire formule of een polynomiaal. 
 
 Ook voor de samenhang van variabelen zijn visualisaties van belang: als twee variabelen samenhangen kan je vaak met een simpele scatterplot zien of de samenhang lineair is of van een hogere orde.
 
