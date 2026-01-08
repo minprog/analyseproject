@@ -6,7 +6,7 @@ Leer gegevens op te slaan en te manipuleren met behulp van de **pandas**-bibliot
 
 Deze opdracht heeft de vorm van een Jupyter "notebook". Dit is een aparte programmeeromgeving waarin experimenteren centraal staat. Je kunt code schrijven, snel uittesten, verbeteren en nogmaals uitvoeren zonder tussenstappen. Het systeem wordt daarom veel gebruikt in de verkennende fase van data-verwerkingsprojecten. Het programmeren gebeurt in je webbrowser.
 
-🧑‍💻 Als je niet bij het college was, of je wil nog even rusten kijken hoe het werkt, dan kun je [hier een filmpje vinden met uitleg over Notebooks](https://www.youtube.com/watch?v=HW29067qVWk) om goed te kunnen starten.
+🧑‍💻 Als je niet bij het college was, of je wil nog even rustig kijken hoe het werkt, dan kun je [hier een filmpje vinden met uitleg over Notebooks](https://www.youtube.com/watch?v=HW29067qVWk) om goed te kunnen starten.
 
 ## Downloaden
 
