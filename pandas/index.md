@@ -1,6 +1,8 @@
 # Pandas
 
-Leer gegevens op te slaan en te manipuleren met behulp van de **pandas**-bibliotheek van Python. 
+Leer gegevens op te slaan en te manipuleren met behulp van de **pandas**-bibliotheek van Python.
+
+[CHEAT SHEET](https://public.3.basecamp.com/p/FfRiS7c5ZvwYXCR4V28TwNEo)
 
 ## Notebooks
 
