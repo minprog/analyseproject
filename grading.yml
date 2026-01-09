@@ -16,15 +16,21 @@ templates:
         calculation: cijfer
         hide_calculated: true
         is_test: true
+    1: &aftekenen_vld
+        type: pass
+        subgrades:
+            voldoende: boolean
+        calculation: voldoende
+        hide_subgrades: true
 
 grades:
     pandas:
-        <<: *aftekenen
+        <<: *aftekenen_vld
         deadline: 09/01/26 14:00
     statistiek_1:
-        <<: *aftekenen
+        <<: *aftekenen_vld
     statistiek_2:
-        <<: *aftekenen
+        <<: *aftekenen_vld
     milestone_1:
         <<: *aftekenen
         deadline: 09/01/26 14:00
