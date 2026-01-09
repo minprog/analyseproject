@@ -21,6 +21,10 @@ grades:
     pandas:
         <<: *aftekenen
         deadline: 09/01/26 14:00
+    statistiek_1:
+        <<: *aftekenen
+    statistiek_2:
+        <<: *aftekenen
     milestone_1:
         <<: *aftekenen
         deadline: 09/01/26 14:00
@@ -46,6 +50,8 @@ milestones:
     show_progress: true
     submits:
         pandas: 1
+        statistiek_1: 1
+        statistiek_2: 1
         milestone_1: 1
         milestone_2: 1
         milestone_3: 1
