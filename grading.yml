@@ -26,7 +26,7 @@ templates:
 grades:
     pandas:
         <<: *aftekenen_vld
-        deadline: 09/01/26 14:00
+        # deadline: 09/01/26 14:00
     statistiek_1:
         <<: *aftekenen_vld
     statistiek_2:
