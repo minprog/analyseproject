@@ -2,3 +2,4 @@ name: milestone_2
 files:
     required:
         - milestone2.ipynb
+        - procesboek.pdf
