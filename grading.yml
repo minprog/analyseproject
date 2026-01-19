@@ -37,6 +37,9 @@ grades:
     milestone_2:
         <<: *aftekenen
         deadline: 16/01/26 14:00
+    milestone_2a:
+        <<: *aftekenen
+        # deadline: 19/01/26 13:00
     milestone_3:
         <<: *aftekenen
         deadline: 23/01/26 14:00
