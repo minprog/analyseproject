@@ -30,6 +30,10 @@ De poster moet de kern van je onderzoek duidelijk en overzichtelijk presenteren.
     - Gebruik tabellen, grafieken en/of korte tekstblokken om de belangrijkste analyses te presenteren
     - Benoem je inzichten, met verwijzingen naar je data of analyses
 
+6. Grafieken
+
+Bij elke grafiek moet een korte omschrijving staan wat je precies plot en waarom deze grafiek past bij het verhaal dat je wil vertellen, en eventuele nadelen aan de gekozen grafiek.
+
 6. Conclusie
 
     - Vat samen wat je hebt geleerd en hoe dit antwoord geeft op de onderzoeksvraag
