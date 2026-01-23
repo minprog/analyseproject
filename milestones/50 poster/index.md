@@ -2,56 +2,55 @@
 
 ## Inhoud van de poster
 
-De poster moet de kern van jullie onderzoek duidelijk en overzichtelijk presenteren. Gebruik de onderstaande opzet
+De poster moet de kern van je onderzoek duidelijk en overzichtelijk presenteren. Gebruik de onderstaande opzet:
 
 1. Titel
 
-    - Kies een duidelijke en pakkende titel die het onderzoek samenvat.
-    - Zorg dat het aansluit bij jullie onderzoeksvraag.
+    - Verzin de titel niet als eerste
+    - Kies een duidelijke en pakkende titel die het onderzoek samenvat
+    - Zorg dat de titel aansluit bij de onderzoeksvraag
 
 2. Onderzoeksvraag
 
-    - Formuleer kort en krachtig de specifieke vraag die jullie onderzocht hebben.
+    - Formuleer kort en krachtig de specifieke vraag die je onderzocht hebt
 
 3. Achtergrond
 
-    - Geef een korte inleiding over waarom deze vraag relevant is en de context van het onderzoek.
-    - Gebruik maximaal 2-3 zinnen.
+    - Geef een korte inleiding over waarom deze vraag relevant is en de context van het onderzoek
+    - Gebruik maximaal 2-3 zinnen
 
 4. Methode
 
-    - Beschrijf hoe jullie data hebben verzameld (alle vormen duidelijk opsommen) of de dataset.
-    - Benoem de gebruikte technieken en waarom deze geschikt waren.
+Beschrijf de gebruikte datasets. Denk hier aan bijvoorbeeld de vorm van data, afkomst, hoe deze verzameld is, en welke delen van de data je wel of niet hebt gebruikt en waarom.
 
 5. Resultaten
 
-    - Gebruik tabellen, grafieken of korte tekstblokken om de belangrijkste analyses en te presenteren.
-    - Benoem je inzichten, met verwijzingen naar je data of analyses. 
-    - Als je een inzicht haalt uit kwalitatieve data, voeg dan quotes toe uit de data die goed laten zien hoe mensen erover praten.
+    - Gebruik tabellen, grafieken en/of korte tekstblokken om de belangrijkste analyses te presenteren
+    - Benoem je inzichten, met verwijzingen naar je data of analyses
 
 6. Conclusie
 
-    - Vat samen wat jullie hebben geleerd en hoe dit antwoord geeft op de onderzoeksvraag.
+    - Vat samen wat je hebt geleerd en hoe dit antwoord geeft op de onderzoeksvraag
     - Pas wel op met claims maken! Wat je zegt moet "waar" zijn.
-    - Geef aan waarom de uitkomsten belangrijk zijn en hoe het toegepast kan worden. Dit is speculatief maar een belangrijk onderdeel van een poster.
+    - Geef aan waarom de uitkomsten belangrijk zijn en hoe deze toegepast kunnen worden in de praktijk. Dit is speculatief maar een belangrijk onderdeel.
 
 7. Reflectie
 
-    - Schrijf kort wat goed ging, wat beter kon en wat jullie geleerd hebben.
+Schrijf kort wat goed ging, wat beter kon en wat je geleerd hebt
 
 8. Bronnen
 
-    - Vermeld alle bronnen die jullie hebben gebruikt, inclusief vermelding dataset [ouderejaars].
+Vermeld alle bronnen die je gebruikt hebt, inclusief verwijzing naar de dataset(s) zodat iemand ze terug kan zoeken.
 
 ## Opmaak en layout
 
-Een goed ontworpen poster is aantrekkelijk en overzichtelijk. Volg deze richtlijnen
+Een goed ontworpen poster is aantrekkelijk en overzichtelijk. Volg deze richtlijnen:
 
 1. Indeling
 
     - De poster moet opgemaakt worden op basis van het A1-formaat. Zorg dat je dit meteen instelt.
     - Gebruik een raster met duidelijke secties.
-    - Zorg dat de poster leesbaar is vanaf een afstand van 1 meter.
+    - Zorg dat de belangrijkste boodschappen op de poster leesbaar zijn vanaf een afstand van 1 meter (grote letters!).
 
 2. Tekst
 
@@ -68,9 +67,9 @@ Een goed ontworpen poster is aantrekkelijk en overzichtelijk. Volg deze richtlij
 4. Visuele elementen
 
     - Voeg grafieken, diagrammen en foto’s toe om de tekst te ondersteunen.
-    - Gebruik duidelijke labels en legende bij grafieken.
+    - Gebruik duidelijke labels en legenda's bij grafieken.
     - Vermijd te veel decoratieve elementen.
 
-5. Namen
+5. Naam
 
-    - Plaats de namen van teamleden onderaan. Of bovenaan.
+    - Plaats je naam onderaan of bovenaan, maar goed vindbaar.

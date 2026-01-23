@@ -16,7 +16,7 @@ templates:
         calculation: cijfer
         hide_calculated: true
         is_test: true
-    1: &aftekenen_vld
+    3: &aftekenen_vld
         type: pass
         subgrades:
             voldoende: boolean
