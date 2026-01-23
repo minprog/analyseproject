@@ -42,7 +42,7 @@ grades:
         # deadline: 19/01/26 13:00
     milestone_3:
         <<: *aftekenen
-        deadline: 23/01/26 14:00
+        deadline: 24/01/26 14:00
     notebook:
         <<: *aftekenen
         deadline: 27/01/26 17:00
