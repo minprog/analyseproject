@@ -1,5 +1,7 @@
 # Poster
 
+Op jouw poster ga je een duidelijk verhaal opbouwen waarin je je onderzoeksvraag beantwoordt. Dat betekent dat zowel de vraag als het antwoord op de poster moeten staan. Maar natuurlijk ook een beschrijving van de data die je hebt gebruikt en een verantwoording van de analyses plus uitleg aan de hand van grafieken.
+
 ## Inhoud van de poster
 
 De poster moet de kern van je onderzoek duidelijk en overzichtelijk presenteren. Gebruik de onderstaande opzet:
