@@ -21,7 +21,7 @@ De poster moet de kern van je onderzoek duidelijk en overzichtelijk presenteren.
 
 4. Methode
 
-Beschrijf de gebruikte datasets. Denk hier aan bijvoorbeeld de vorm van data, afkomst, hoe deze verzameld is, en welke delen van de data je wel of niet hebt gebruikt en waarom.
+    Beschrijf de gebruikte datasets. Denk hier aan bijvoorbeeld de vorm van data, afkomst, hoe deze verzameld is, en welke delen van de data je wel of niet hebt gebruikt en waarom.
 
 5. Resultaten
 
@@ -36,11 +36,11 @@ Beschrijf de gebruikte datasets. Denk hier aan bijvoorbeeld de vorm van data, af
 
 7. Reflectie
 
-Schrijf kort wat goed ging, wat beter kon en wat je geleerd hebt
+    Schrijf kort wat goed ging, wat beter kon en wat je geleerd hebt
 
 8. Bronnen
 
-Vermeld alle bronnen die je gebruikt hebt, inclusief verwijzing naar de dataset(s) zodat iemand ze terug kan zoeken.
+    Vermeld alle bronnen die je gebruikt hebt, inclusief verwijzing naar de dataset(s) zodat iemand ze terug kan zoeken.
 
 ## Opmaak en layout
 
@@ -72,4 +72,4 @@ Een goed ontworpen poster is aantrekkelijk en overzichtelijk. Volg deze richtlij
 
 5. Naam
 
-    - Plaats je naam onderaan of bovenaan, maar goed vindbaar.
+    Plaats je naam onderaan of bovenaan, maar goed vindbaar.
