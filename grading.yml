@@ -45,10 +45,10 @@ grades:
         deadline: 24/01/26 14:00
     notebook:
         <<: *aftekenen
-        deadline: 27/01/26 17:00
+        deadline: 28/01/26 15:00
     poster:
         <<: *aftekenen
-        deadline: 28/01/26 14:00
+        deadline: 27/01/26 15:00
     project: *cijfer
 
 calculation:
